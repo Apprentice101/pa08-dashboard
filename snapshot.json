@@ -111,6 +111,8 @@
       "sourceErrors": 0,
       "summary": "PA-08 general election matchup set: Bresnahan vs. Cognetti, both unopposed in the May 19 primary. This week's stories include the Votebeat ballot-cure study and an ongoing legal challenge to Trump's mail-voting executive order. Local NEPA outlets have been quiet \u2014 most district-level coverage comes from late-May post-primary recaps.",
       "generatedAt": "2026-06-10T22:00:00Z"
-    }
-  }
+    },
+    "districtNumber": "PA-08"
+  },
+  "districtCode": "PA-08"
 }
