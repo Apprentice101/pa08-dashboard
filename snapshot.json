@@ -1,0 +1,116 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-10",
+  "updatedAt": "2026-06-10T22:00:00Z",
+  "exportedAt": "2026-06-10T22:00:00Z",
+  "data": {
+    "DISTRICT": {
+      "id": "pa-08",
+      "name": "PA-08 (US Congressional District)",
+      "state": "Pennsylvania",
+      "counties": [
+        "Lackawanna",
+        "Luzerne",
+        "Pike",
+        "Wayne",
+        "Monroe (parts)"
+      ]
+    },
+    "UPDATES": [],
+    "CONFLICTS": [],
+    "NEWS": [
+      {
+        "headline": "Study: Ballot curing helps more mail ballots get counted",
+        "sourceName": "Spotlight PA / Votebeat Pennsylvania",
+        "url": "https://www.spotlightpa.org/news/2026/06/mail-ballot-notice-cure-study-university-pennsylvania-study-2024-election-elections/",
+        "publishedAt": "2026-06-03",
+        "relevanceSummary": "A University of Pennsylvania study of the 2024 election found that PA mail voters were 25 percentage points more likely to have their ballot counted if notified of an error before Election Day \u2014 directly affecting Lackawanna, Luzerne, Monroe, Pike, and Wayne county voters in PA-08, whose cure opportunities vary widely by county. The study also flags an ongoing equal-protection challenge to Pennsylvania's inconsistent county-by-county cure policies that could reach federal courts before November 2026.",
+        "tag": "rule-change",
+        "id": "news-2026-0610-pa-08-01",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Trump order targeting mail voting leaves judge 'very concerned'",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/trump-order-targeting-mail-voting-leaves-judge-very-concerned/",
+        "publishedAt": "2026-06-02",
+        "relevanceSummary": "U.S. District Judge Indira Talwani in Boston expressed serious skepticism toward Trump's March 2026 executive order that would restrict mail-ballot delivery via the Postal Service to a DHS-approved voter list, with a ruling expected before the November 3 general election. PA-08 voters \u2014 including the large mail-ballot-using populations in Lackawanna and Luzerne counties \u2014 face potential disruption if the order survives judicial review ahead of the midterms.",
+        "tag": "litigation",
+        "id": "news-2026-0610-pa-08-02",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Lackluster primary election paves path to hotly contested midterm battles across Pennsylvania",
+        "sourceName": "WVIA News",
+        "url": "https://www.wvia.org/news/local/2026-05-30/lackluster-primary-election-paves-path-to-hotly-contested-midterm-battles-across-pennsylvania",
+        "publishedAt": "2026-05-30",
+        "relevanceSummary": "WVIA politics reporter Borys Krawczeniuk details the certified PA-08 general-election matchup \u2014 incumbent Republican Rep. Rob Bresnahan (37,971 primary votes) vs. Scranton Mayor Paige Cognetti (58,415 primary votes) \u2014 and notes all three national race-trackers rate the contest a toss-up or tilt-Republican as the general-election season begins. The piece also covers state-House races in Luzerne County's 118th and 121st districts that will appear alongside the congressional race on November 3 ballots for PA-08 voters.",
+        "tag": "primary",
+        "id": "news-2026-0610-pa-08-03",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Brooks wins hotly contested 7th District Democratic Congressional race, Bresnahan and Cognetti to square off in 8th",
+        "sourceName": "WVIA News",
+        "url": "https://www.wvia.org/news/local/2026-05-19/brooks-wins-hotly-contested-7th-district-democratic-congressional-race-bresnahan-and-cognetti-to-square-off-in-8th",
+        "publishedAt": "2026-05-19",
+        "relevanceSummary": "WVIA confirms Scranton Mayor Paige Cognetti won the unchallenged PA-08 Democratic primary (58,374 votes) and will face Rep. Rob Bresnahan (37,937 votes) in November, with Cognetti framing the race as a referendum on Bresnahan's congressional stock trading and Bresnahan calling her a 'career opportunist.' The article identifies the precise PA-08 county boundaries \u2014 all of Lackawanna, Wayne, and Pike, the eastern half of Luzerne including Wilkes-Barre and Hazleton, and most of Monroe \u2014 giving voters a definitive picture of their November ballot.",
+        "tag": "primary",
+        "id": "news-2026-0610-pa-08-04",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Low turnout and data centers highlight primary election in Luzerne and Lackawanna Counties",
+        "sourceName": "FOX56 / WOLF Television",
+        "url": "https://fox56.com/news/local/ballots-cast-across-luzerne-and-lackawanna-counties-in-primary-election",
+        "publishedAt": "2026-05-19",
+        "relevanceSummary": "Post-primary reporting from Luzerne and Lackawanna county election offices confirmed low voter turnout on May 19 and highlighted the ongoing debate over proposed data-center development in Luzerne County as a local election issue heading toward the general. Low primary turnout in the two most populous PA-08 counties signals that both campaigns will need aggressive voter mobilization before November 3.",
+        "tag": "administration",
+        "id": "news-2026-0610-pa-08-05",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Paige Cognetti to face Rob Bresnahan in PA's 8th District general election",
+        "sourceName": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4573438/pennsylvania-8th-district-results-rob-bresnahan-paige-cognetti/",
+        "publishedAt": "2026-05-20",
+        "relevanceSummary": "National coverage of the PA-08 general-election matchup confirms Cognetti out-raised Bresnahan in April ($495K vs. $315K), notes that Bresnahan has reported buying and selling roughly $7.2 million in stock since taking office \u2014 with trades tied to Medicaid-adjacent companies ahead of key House votes \u2014 and characterizes the Scranton/Wilkes-Barre district as likely among the nation's most expensive and competitive House races in 2026.",
+        "tag": "primary",
+        "id": "news-2026-0610-pa-08-06",
+        "reviewState": "new"
+      }
+    ],
+    "SOURCES": [],
+    "ELECTION_EVENTS": [],
+    "RULES": [],
+    "RESOURCES": [],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-10T22-00-00-pa-08",
+      "startedAt": "2026-06-10T21:59:30.000Z",
+      "completedAt": "2026-06-10T22:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 12,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
+      "errors": [],
+      "summary": "PA-08 weekly refresh on 2026-06-10. Status: Pennsylvania primary (held), general election Nov 3 (146 days out). Incumbent: Rep. Rob Bresnahan (R); opponent: Scranton Mayor Paige Cognetti (D) \u2014 both uncontested in May 19 primary. Six new news items added covering the past week (Jun 3-10). PA-08 general election matchup set: Bresnahan vs. Cognetti, both unopposed in the May 19 primary. This week's stories include the Votebeat ballot-cure study and an ongoing legal challenge to Trump's mail-voting executive order. Local NEPA outlets have been quiet \u2014 most district-level coverage comes from late-May post-primary recaps. Procedural rules and election-event dates unchanged from the bundle baseline; all news items routed to the human-review queue for editor confirmation."
+    },
+    "NEXT_REFRESH_AT": "2026-06-12T22:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-2026-w24-pa-08",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 12,
+      "newUpdates": 0,
+      "conflictsCreated": 0,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 6,
+      "sourceErrors": 0,
+      "summary": "PA-08 general election matchup set: Bresnahan vs. Cognetti, both unopposed in the May 19 primary. This week's stories include the Votebeat ballot-cure study and an ongoing legal challenge to Trump's mail-voting executive order. Local NEPA outlets have been quiet \u2014 most district-level coverage comes from late-May post-primary recaps.",
+      "generatedAt": "2026-06-10T22:00:00Z"
+    }
+  }
+}
