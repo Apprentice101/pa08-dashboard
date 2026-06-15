@@ -1,118 +1,803 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-10",
-  "updatedAt": "2026-06-10T22:00:00Z",
-  "exportedAt": "2026-06-10T22:00:00Z",
+  "dataAsOf": "2026-06-02",
+  "updatedAt": "2026-06-02T21:45:00Z",
+  "exportedAt": "2026-06-15T19:44:19.925Z",
+  "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
       "id": "pa-08",
-      "name": "PA-08 (US Congressional District)",
+      "districtNumber": "PA-08",
+      "districtName": "Pennsylvania's 8th Congressional District",
       "state": "Pennsylvania",
       "counties": [
         "Lackawanna",
-        "Luzerne",
         "Pike",
         "Wayne",
-        "Monroe (parts)"
-      ]
+        "Luzerne (partial)",
+        "Monroe (partial)"
+      ],
+      "majorPlaces": [
+        "Scranton",
+        "Wilkes-Barre",
+        "Hazleton",
+        "Stroudsburg",
+        "Milford",
+        "Honesdale"
+      ],
+      "cycleYear": 2026,
+      "population": 764865,
+      "registeredVoters": 498000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 199200,
+          "pct": 40
+        },
+        {
+          "label": "Republican",
+          "count": 174300,
+          "pct": 35
+        },
+        {
+          "label": "Other / Independent",
+          "count": 124500,
+          "pct": 25
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — PA-08",
+        "winner": {
+          "name": "Rob Bresnahan Jr. (R)",
+          "pct": 55.8,
+          "votes": 176000
+        },
+        "runnerUp": {
+          "name": "Matt Cartwright (D)",
+          "pct": 44.2,
+          "votes": 139400
+        },
+        "turnoutPct": 68.5
+      }
     },
-    "UPDATES": [],
-    "CONFLICTS": [],
+    "SOURCES": {
+      "src-pa-upcoming": {
+        "id": "src-pa-upcoming",
+        "name": "PA.gov — Upcoming Elections",
+        "short": "PA Upcoming",
+        "url": "https://www.pa.gov/agencies/vote/elections/upcoming-elections",
+        "publisher": "Commonwealth of Pennsylvania — Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high"
+      },
+      "src-pa-mail-absentee": {
+        "id": "src-pa-mail-absentee",
+        "name": "PA.gov — Mail-in & Absentee Ballot",
+        "short": "PA Mail/Absentee",
+        "url": "https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot",
+        "publisher": "Commonwealth of Pennsylvania — Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high"
+      },
+      "src-pa-ballot-tracking": {
+        "id": "src-pa-ballot-tracking",
+        "name": "PA Voter Services — Ballot Tracking",
+        "short": "PA Ballot Tracking",
+        "url": "https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx",
+        "publisher": "PA Department of State — Voter Services",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high"
+      },
+      "src-pa-register": {
+        "id": "src-pa-register",
+        "name": "PA Voter Services — Register to Vote",
+        "short": "PA Register",
+        "url": "https://www.pavoterservices.pa.gov/pages/voterregistrationapplication.aspx",
+        "publisher": "PA Department of State — Voter Services",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high"
+      },
+      "src-pa-reg-status": {
+        "id": "src-pa-reg-status",
+        "name": "PA Voter Services — Registration Status",
+        "short": "PA Reg Status",
+        "url": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx",
+        "publisher": "PA Department of State — Voter Services",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high"
+      },
+      "src-pa-county-officials": {
+        "id": "src-pa-county-officials",
+        "name": "PA.gov — Contact Your County Election Officials",
+        "short": "PA County Contacts",
+        "url": "https://www.pa.gov/agencies/vote/contact-us/contact-your-election-officials",
+        "publisher": "Commonwealth of Pennsylvania — Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high"
+      },
+      "src-pa-title25": {
+        "id": "src-pa-title25",
+        "name": "Pennsylvania Title 25 — Elections Statutes",
+        "short": "PA Title 25",
+        "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/25/25.HTM",
+        "publisher": "Pennsylvania General Assembly",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high"
+      },
+      "src-lackawanna-elections": {
+        "id": "src-lackawanna-elections",
+        "name": "Lackawanna County Bureau of Elections",
+        "short": "Lackawanna Elections",
+        "url": "https://www.lackawannacounty.org/government/departments/elections/index.php",
+        "publisher": "Lackawanna County Bureau of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high",
+        "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
+      },
+      "src-luzerne-elections": {
+        "id": "src-luzerne-elections",
+        "name": "Luzerne County Board of Elections and Registration",
+        "short": "Luzerne Elections",
+        "url": "https://www.luzernecounty.org/1082/Board-of-Elections-and-Registration",
+        "publisher": "Luzerne County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high",
+        "notes": "Director: Emily Cook. Phone: (570) 825-1715. 20 N. Pennsylvania Ave., Ste. 207, Wilkes-Barre, PA 18701."
+      },
+      "src-monroe-elections": {
+        "id": "src-monroe-elections",
+        "name": "Monroe County Office of Elections and Registration",
+        "short": "Monroe Elections",
+        "url": "https://www.monroecountypa.gov/departments/elections",
+        "publisher": "Monroe County Office of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high",
+        "notes": "Director: Sara May-Silfee. Phone: (570) 517-3165. One Quaker Plaza, Rm. 105, Stroudsburg, PA 18360."
+      },
+      "src-pike-elections": {
+        "id": "src-pike-elections",
+        "name": "Pike County Board of Elections",
+        "short": "Pike Elections",
+        "url": "https://www.pikepa.org/elections.html",
+        "publisher": "Pike County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "medium",
+        "notes": "Director: Nadeen Manzoni. Phone: (570) 296-3427. 506 Broad St., Milford, PA 18337."
+      },
+      "src-wayne-elections": {
+        "id": "src-wayne-elections",
+        "name": "Wayne County Bureau of Elections",
+        "short": "Wayne Elections",
+        "url": "https://www.waynecountypa.gov/197/Bureau-Of-Elections",
+        "publisher": "Wayne County Bureau of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "high",
+        "notes": "Director: Amy Christopher. Phone: (570) 253-5978. 925 Court St., Honesdale, PA 18431."
+      },
+      "src-spotlight-pa-mailballot": {
+        "id": "src-spotlight-pa-mailballot",
+        "name": "Spotlight PA — Mail Ballot Date Rule Coverage",
+        "short": "Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2025/09/pennsylvania-mail-ballot-date-requirement-supreme-court-lawsuit-elections/",
+        "publisher": "Spotlight PA",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "medium",
+        "notes": "Tracks ongoing PA mail ballot envelope-dating litigation (state + federal)."
+      },
+      "src-votebeat-pa": {
+        "id": "src-votebeat-pa",
+        "name": "VoteBeat Pennsylvania",
+        "short": "VoteBeat PA",
+        "url": "https://www.votebeat.org/pennsylvania/",
+        "publisher": "VoteBeat",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-05-26",
+        "lastVerified": "2026-05-26",
+        "confidence": "medium"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "ev-primary-reg-deadline",
+        "milestone": "Voter registration deadline",
+        "type": "registration",
+        "electionType": "primary",
+        "date": "2026-05-04",
+        "significance": "Last day to register to vote in the PA May 19 primary.",
+        "authority": "PA Department of State / County Election Offices",
+        "sourceIds": [
+          "src-pa-upcoming",
+          "src-pa-register"
+        ],
+        "confidence": "high",
+        "status": "past"
+      },
+      {
+        "id": "ev-primary-mail-request",
+        "milestone": "Mail-in / absentee ballot request deadline",
+        "type": "mail-request",
+        "electionType": "primary",
+        "date": "2026-05-12",
+        "significance": "Applications must reach the county election office by 5:00 PM.",
+        "authority": "PA Department of State",
+        "sourceIds": [
+          "src-pa-upcoming",
+          "src-pa-mail-absentee"
+        ],
+        "confidence": "high",
+        "status": "past"
+      },
+      {
+        "id": "ev-primary-receipt",
+        "milestone": "Primary ballot receipt deadline",
+        "type": "mail-receipt",
+        "electionType": "primary",
+        "date": "2026-05-19",
+        "significance": "Mail-in / absentee ballots must be received by the county election office by 8 PM. Postmarks do not count.",
+        "authority": "PA Department of State",
+        "sourceIds": [
+          "src-pa-upcoming",
+          "src-pa-mail-absentee"
+        ],
+        "confidence": "high",
+        "status": "past"
+      },
+      {
+        "id": "ev-primary-day",
+        "milestone": "Primary election day",
+        "type": "election-day",
+        "electionType": "primary",
+        "date": "2026-05-19",
+        "significance": "Pennsylvania statewide primary. Polls open 7:00 AM – 8:00 PM.",
+        "authority": "PA Department of State",
+        "sourceIds": [
+          "src-pa-upcoming"
+        ],
+        "confidence": "high",
+        "status": "past",
+        "notes": "Bresnahan (R) won uncontested; Cognetti (D) won uncontested."
+      },
+      {
+        "id": "ev-general-reg-deadline",
+        "milestone": "Voter registration deadline",
+        "type": "registration",
+        "electionType": "general",
+        "date": "2026-10-19",
+        "significance": "Last day to register to vote before the November 3 general election.",
+        "authority": "PA Department of State / County Election Offices",
+        "sourceIds": [
+          "src-pa-upcoming",
+          "src-pa-register"
+        ],
+        "confidence": "high",
+        "status": "upcoming"
+      },
+      {
+        "id": "ev-general-mail-request",
+        "milestone": "Mail-in / absentee ballot request deadline",
+        "type": "mail-request",
+        "electionType": "general",
+        "date": "2026-10-27",
+        "significance": "Applications must reach the county election office by 5:00 PM (general election).",
+        "authority": "PA Department of State",
+        "sourceIds": [
+          "src-pa-upcoming",
+          "src-pa-mail-absentee"
+        ],
+        "confidence": "high",
+        "status": "upcoming"
+      },
+      {
+        "id": "ev-general-receipt",
+        "milestone": "Ballot receipt deadline",
+        "type": "mail-receipt",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Mail-in / absentee ballots must be received by the county election office by 8 PM. Postmarks do not count.",
+        "authority": "PA Department of State",
+        "sourceIds": [
+          "src-pa-upcoming",
+          "src-pa-mail-absentee"
+        ],
+        "confidence": "high",
+        "status": "upcoming"
+      },
+      {
+        "id": "ev-general-day",
+        "milestone": "General election day",
+        "type": "election-day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. Polls open 7:00 AM – 8:00 PM.",
+        "authority": "PA Department of State",
+        "sourceIds": [
+          "src-pa-upcoming"
+        ],
+        "confidence": "high",
+        "status": "upcoming"
+      },
+      {
+        "id": "ev-primary-dating-watch",
+        "milestone": "Mail ballot date rule — court cases ongoing",
+        "type": "watch",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "3rd Circuit ruled envelope dating requirement unconstitutional (Aug 2025). RNC + Commonwealth petitioned SCOTUS. Decision could change rules before Nov 3 general election.",
+        "authority": "3rd Circuit / PA Supreme Court / SCOTUS (pending)",
+        "sourceIds": [
+          "src-spotlight-pa-mailballot",
+          "src-votebeat-pa"
+        ],
+        "confidence": "low",
+        "status": "watch",
+        "notes": "SCOTUS petition responses due June 1, 2026. Monitor for cert grant."
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-registration",
+        "topic": "Voter registration",
+        "currentRule": "Online, mail, or in-person registration through PA Voter Services or a county election office. Must be a U.S. citizen, PA resident in the district at least 30 days, and 18+ by election day.",
+        "status": "active",
+        "whyItMatters": "Determines who can cast a ballot in PA-08.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-register",
+          "src-pa-upcoming"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26",
+        "detail": "Registration applications must be received at least 15 days before the election. General deadline Oct. 19, 2026."
+      },
+      {
+        "id": "rule-mailin",
+        "topic": "No-excuse mail-in ballots",
+        "currentRule": "Any registered Pennsylvania voter may apply for a no-excuse mail-in ballot. No reason required.",
+        "status": "active",
+        "whyItMatters": "Mail-in ballots are a primary voting channel for many PA-08 voters.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-mail-absentee"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "rule-absentee",
+        "topic": "Absentee ballots require a reason",
+        "currentRule": "Absentee ballots are limited to voters who meet a qualifying reason (illness, disability, absence from municipality, etc.). Voters who don't need a reason should use a mail-in ballot.",
+        "status": "active",
+        "whyItMatters": "Distinguishes the two PA mail-voting tracks and which application a voter should use.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-mail-absentee"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "rule-mail-request",
+        "topic": "Mail-in / absentee request deadline",
+        "currentRule": "Mail-in and absentee ballot applications must be received by the county election office by 5:00 PM seven days before election day.",
+        "status": "active",
+        "whyItMatters": "Late applications cannot be processed; voters must use in-person voting if missed.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-mail-absentee",
+          "src-pa-upcoming"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26",
+        "detail": "General: Oct. 27, 2026 at 5:00 PM. Applies to Lackawanna, Luzerne, Monroe, Pike, and Wayne county election offices."
+      },
+      {
+        "id": "rule-poll-hours",
+        "topic": "Polling place hours",
+        "currentRule": "Polls are open 7:00 AM to 8:00 PM on election day across Pennsylvania. Any voter in line by 8:00 PM may cast a ballot.",
+        "status": "active",
+        "whyItMatters": "Defines the window for in-person voting in PA-08.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-upcoming"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "rule-id",
+        "topic": "Voter ID / first-time voter ID",
+        "currentRule": "First-time voters at a polling place, and voters voting at a new polling place for the first time, must show acceptable ID. Returning voters at their established polling place generally do not need ID.",
+        "status": "watch",
+        "whyItMatters": "Affects in-person eligibility, especially for newly registered or recently moved voters in Lackawanna, Luzerne, Monroe, Pike, and Wayne counties.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-upcoming",
+          "src-pa-title25"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-05-26",
+        "needsReview": true,
+        "detail": "Confirm exact acceptable-ID list and first-time-voter rule against PA Title 25 and PA Department of State guidance before public release."
+      },
+      {
+        "id": "rule-tracking",
+        "topic": "Mail-ballot tracking",
+        "currentRule": "Voters can track their mail-in or absentee ballot status through PA Voter Services from application through receipt at the county election office.",
+        "status": "active",
+        "whyItMatters": "Lets voters confirm their ballot was received in time and resolve issues before deadlines.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-ballot-tracking"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "rule-county-admin",
+        "topic": "County election office administration",
+        "currentRule": "Pennsylvania elections are administered at the county level. Mail-in and absentee applications, ballots, and in-person logistics flow through each county's election office.",
+        "status": "active",
+        "whyItMatters": "PA-08 voters interact with Lackawanna, Luzerne, Monroe, Pike, or Wayne county election offices depending on residence.",
+        "governingLevel": "countywide",
+        "sourceIds": [
+          "src-lackawanna-elections",
+          "src-luzerne-elections",
+          "src-monroe-elections",
+          "src-pike-elections",
+          "src-wayne-elections"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "rule-pa-no-postmark",
+        "topic": "Mail ballot receipt rule",
+        "currentRule": "Mail ballots must be physically RECEIVED by the county election office by 8:00 PM on Election Day. Postmarks do not count.",
+        "status": "active",
+        "whyItMatters": "The most common cause of ballot rejection. Ballots arriving after 8 PM on November 3 will not be counted, even if postmarked earlier.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-mail-absentee",
+          "src-pa-title25"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26",
+        "detail": "PA Election Code § 1306-D. Receipt deadline: November 3, 2026 at 8:00 PM. Apply well before the Oct 27 request deadline."
+      },
+      {
+        "id": "rule-pa-no-early-voting",
+        "topic": "No in-person early voting",
+        "currentRule": "Pennsylvania does not offer in-person early voting at polling places. Pre-Election Day voting requires requesting and returning a mail-in or absentee ballot.",
+        "status": "active",
+        "whyItMatters": "Voters who want to vote early must use the mail-in/absentee process and meet the Oct 27 application deadline.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-mail-absentee",
+          "src-pa-title25"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "rule-pa-closed-primary",
+        "topic": "Closed primary",
+        "currentRule": "Only registered Democrats and Republicans may vote for candidates in their party's primary. Independents and third-party registrants cannot vote in candidate primaries (though they may vote on ballot questions).",
+        "status": "active",
+        "whyItMatters": "Unaffiliated voters in Lackawanna, Luzerne, Monroe, Pike, and Wayne counties cannot participate in candidate selections for the primary.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-title25",
+          "src-pa-register"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26",
+        "detail": "PA Election Code § 25-2862. Voters can change party registration; deadline to change for general primary is 15 days before the election."
+      },
+      {
+        "id": "rule-pa-dating-watch",
+        "topic": "Mail ballot envelope dating (SCOTUS watch)",
+        "currentRule": "Counties currently cannot reject mail ballots for undated or misdated outer envelopes per 3rd Circuit ruling (Aug 2025). SCOTUS petition pending (Commonwealth v. Eakin). Responses due June 1, 2026.",
+        "status": "watch",
+        "whyItMatters": "A SCOTUS reversal could invalidate ballots with undated envelopes in the November 3 general. Voters should always date their return envelope to protect against a rule change.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-spotlight-pa-mailballot",
+          "src-votebeat-pa"
+        ],
+        "confidence": "low",
+        "lastVerified": "2026-05-26",
+        "needsReview": true,
+        "detail": "Commonwealth v. Eakin, No. 25-967 at SCOTUS. Monitor for cert grant or denial after June 1 response deadline."
+      },
+      {
+        "id": "rule-pa-notify-errors",
+        "topic": "County notice of mail ballot errors",
+        "currentRule": "Per PA Supreme Court (Coalfield Justice, 2024), county boards must notify voters of disqualifying errors on return envelopes before rejecting a ballot, giving the voter a chance to cast a provisional ballot.",
+        "status": "active",
+        "whyItMatters": "Voters with envelope errors may have a remedy if the county notifies them in time to vote provisionally on Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-pa-county-officials",
+          "src-pa-title25"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-26",
+        "detail": "Center for Coalfield Justice v. Washington County Board of Elections (PA Sup. Ct. 2024). Applies across all PA counties including Lackawanna, Luzerne, Monroe, Pike, and Wayne."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-pa-voter-services",
+        "label": "PA Voter Services Portal",
+        "description": "Official PA voter portal: register to vote, check registration status, apply for mail ballot, and track ballot status.",
+        "url": "https://www.pavoterservices.pa.gov",
+        "governingAuthority": "Pennsylvania Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-pa-register",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "res-pa-ballot-tracking",
+        "label": "PA Mail Ballot Tracker",
+        "description": "Track the status of your mail-in or absentee ballot online through the official PA voter services portal.",
+        "url": "https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx",
+        "governingAuthority": "Pennsylvania Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-pa-ballot-tracking",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "res-lackawanna",
+        "label": "Lackawanna County Bureau of Elections (Scranton)",
+        "description": "Scranton-area election office. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton.",
+        "url": "https://www.lackawannacounty.org/government/departments/elections/index.php",
+        "governingAuthority": "Lackawanna County Bureau of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-lackawanna-elections",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "res-luzerne",
+        "label": "Luzerne County Board of Elections (Wilkes-Barre)",
+        "description": "Wilkes-Barre / Hazleton area election office. Phone: (570) 825-1715. 20 N. Pennsylvania Ave., Ste. 207.",
+        "url": "https://www.luzernecounty.org/1082/Board-of-Elections-and-Registration",
+        "governingAuthority": "Luzerne County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-luzerne-elections",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "res-monroe",
+        "label": "Monroe County Office of Elections (Stroudsburg / Pocono)",
+        "description": "Stroudsburg / Pocono area election office. Phone: (570) 517-3165. One Quaker Plaza, Rm. 105, Stroudsburg.",
+        "url": "https://www.monroecountypa.gov/departments/elections",
+        "governingAuthority": "Monroe County Office of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-monroe-elections",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "res-pike",
+        "label": "Pike County Board of Elections (Milford)",
+        "description": "Milford / Delaware Water Gap area. Phone: (570) 296-3427. 506 Broad St., Milford.",
+        "url": "https://www.pikepa.org/elections.html",
+        "governingAuthority": "Pike County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-pike-elections",
+        "lastVerified": "2026-05-26"
+      },
+      {
+        "id": "res-wayne",
+        "label": "Wayne County Bureau of Elections (Honesdale)",
+        "description": "Honesdale / Lake Wallenpaupack area. Phone: (570) 253-5978. 925 Court St., Honesdale.",
+        "url": "https://www.waynecountypa.gov/197/Bureau-Of-Elections",
+        "governingAuthority": "Wayne County Bureau of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-wayne-elections",
+        "lastVerified": "2026-05-26"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-001",
+        "title": "PA-08 primary held May 19 — Bresnahan (R) and Cognetti (D) advance to November general",
+        "fieldChanged": "Primary 2026 results",
+        "oldValue": "Primary pending",
+        "newValue": "Rob Bresnahan Jr. (R) won uncontested (37,937 votes); Paige Cognetti (D, Mayor of Scranton) won uncontested (58,374 votes). Both advance to Nov. 3, 2026 general.",
+        "sourceIds": [
+          "src-pa-upcoming"
+        ],
+        "detectedAt": "2026-05-26T08:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-002",
+        "title": "SCOTUS petition pending — Commonwealth v. Eakin mail ballot dating case",
+        "fieldChanged": "Mail ballot envelope dating rule",
+        "oldValue": "3rd Circuit ruling (Aug 2025): counties cannot reject undated/misdated ballots",
+        "newValue": "RNC and Commonwealth petitioned SCOTUS in Feb 2026. Responses due June 1, 2026. Outcome uncertain for Nov 3 general.",
+        "sourceIds": [
+          "src-spotlight-pa-mailballot"
+        ],
+        "detectedAt": "2026-05-26T08:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-003",
+        "title": "PA-08 dashboard initialized — all general election deadlines configured",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "All 2026 election events, sources (14), rules, and resources configured for initial release.",
+        "sourceIds": [
+          "src-pa-upcoming"
+        ],
+        "detectedAt": "2026-05-26T08:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-001",
+        "title": "Mail ballot envelope dating — conflicting court rulings (state + federal)",
+        "description": "3rd Circuit: date requirement unconstitutional (Aug 2025). PA Commonwealth Court: same (2024). PA Supreme Court: counties must notify voters of errors (Coalfield Justice, 2024). RNC + Commonwealth petitioned SCOTUS (Feb 2026). If SCOTUS reverses, ballots without accurate dates could be rejected in the Nov 3, 2026 general election.",
+        "conflictType": "rule-conflict",
+        "sourceIds": [
+          "src-spotlight-pa-mailballot",
+          "src-votebeat-pa",
+          "src-pa-mail-absentee"
+        ],
+        "detectedAt": "2026-05-26T08:00:00Z",
+        "severity": "high",
+        "reviewState": "open",
+        "visibility": "public"
+      }
+    ],
     "NEWS": [
       {
-        "headline": "Study: Ballot curing helps more mail ballots get counted",
-        "sourceName": "Spotlight PA / Votebeat Pennsylvania",
-        "url": "https://www.spotlightpa.org/news/2026/06/mail-ballot-notice-cure-study-university-pennsylvania-study-2024-election-elections/",
-        "publishedAt": "2026-06-03",
-        "relevanceSummary": "A University of Pennsylvania study of the 2024 election found that PA mail voters were 25 percentage points more likely to have their ballot counted if notified of an error before Election Day \u2014 directly affecting Lackawanna, Luzerne, Monroe, Pike, and Wayne county voters in PA-08, whose cure opportunities vary widely by county. The study also flags an ongoing equal-protection challenge to Pennsylvania's inconsistent county-by-county cure policies that could reach federal courts before November 2026.",
-        "tag": "rule-change",
-        "id": "news-2026-0610-pa-08-01",
-        "reviewState": "new"
-      },
-      {
-        "headline": "Trump order targeting mail voting leaves judge 'very concerned'",
-        "sourceName": "Democracy Docket",
-        "url": "https://www.democracydocket.com/news-alerts/trump-order-targeting-mail-voting-leaves-judge-very-concerned/",
-        "publishedAt": "2026-06-02",
-        "relevanceSummary": "U.S. District Judge Indira Talwani in Boston expressed serious skepticism toward Trump's March 2026 executive order that would restrict mail-ballot delivery via the Postal Service to a DHS-approved voter list, with a ruling expected before the November 3 general election. PA-08 voters \u2014 including the large mail-ballot-using populations in Lackawanna and Luzerne counties \u2014 face potential disruption if the order survives judicial review ahead of the midterms.",
+        "id": "news-007",
+        "headline": "SCOTUS responses due June 1 in PA mail-ballot dating case — ruling could affect November",
+        "sourceName": "VoteBeat Pennsylvania",
+        "url": "https://www.votebeat.org/pennsylvania/2026/05/15/2026-primarymail-ballot-envelope-dating-explainer/",
+        "publishedAt": "2026-05-15",
+        "relevanceSummary": "Responses in Commonwealth v. Eakin (No. 25-967) were due at SCOTUS on June 1, 2026. If the Court takes the case and reverses the 3rd Circuit, counties could again reject undated PA-08 mail ballots before the November 3 general election.",
         "tag": "litigation",
-        "id": "news-2026-0610-pa-08-02",
         "reviewState": "new"
       },
       {
-        "headline": "Lackluster primary election paves path to hotly contested midterm battles across Pennsylvania",
-        "sourceName": "WVIA News",
-        "url": "https://www.wvia.org/news/local/2026-05-30/lackluster-primary-election-paves-path-to-hotly-contested-midterm-battles-across-pennsylvania",
-        "publishedAt": "2026-05-30",
-        "relevanceSummary": "WVIA politics reporter Borys Krawczeniuk details the certified PA-08 general-election matchup \u2014 incumbent Republican Rep. Rob Bresnahan (37,971 primary votes) vs. Scranton Mayor Paige Cognetti (58,415 primary votes) \u2014 and notes all three national race-trackers rate the contest a toss-up or tilt-Republican as the general-election season begins. The piece also covers state-House races in Luzerne County's 118th and 121st districts that will appear alongside the congressional race on November 3 ballots for PA-08 voters.",
-        "tag": "primary",
-        "id": "news-2026-0610-pa-08-03",
-        "reviewState": "new"
-      },
-      {
-        "headline": "Brooks wins hotly contested 7th District Democratic Congressional race, Bresnahan and Cognetti to square off in 8th",
-        "sourceName": "WVIA News",
-        "url": "https://www.wvia.org/news/local/2026-05-19/brooks-wins-hotly-contested-7th-district-democratic-congressional-race-bresnahan-and-cognetti-to-square-off-in-8th",
+        "id": "news-001",
+        "headline": "Paige Cognetti wins Democratic primary for PA-08 — Scranton mayor to face Bresnahan in November",
+        "sourceName": "DNC / City & State PA",
+        "url": "https://democrats.org/news/dnc-congratulates-democratic-nominee-paige-cognetti-on-her-victory-in-the-pennsylvania-democratic-congressional-district-8-primary/",
         "publishedAt": "2026-05-19",
-        "relevanceSummary": "WVIA confirms Scranton Mayor Paige Cognetti won the unchallenged PA-08 Democratic primary (58,374 votes) and will face Rep. Rob Bresnahan (37,937 votes) in November, with Cognetti framing the race as a referendum on Bresnahan's congressional stock trading and Bresnahan calling her a 'career opportunist.' The article identifies the precise PA-08 county boundaries \u2014 all of Lackawanna, Wayne, and Pike, the eastern half of Luzerne including Wilkes-Barre and Hazleton, and most of Monroe \u2014 giving voters a definitive picture of their November ballot.",
-        "tag": "primary",
-        "id": "news-2026-0610-pa-08-04",
+        "relevanceSummary": "Mayor of Scranton Paige Cognetti won the Democratic primary uncontested (58,374 votes). She will face incumbent Rep. Rob Bresnahan Jr. (R) in the November 3 general election. Race rated R+4 Cook PVI; Democrats targeting as a pickup opportunity.",
+        "tag": "results",
         "reviewState": "new"
       },
       {
-        "headline": "Low turnout and data centers highlight primary election in Luzerne and Lackawanna Counties",
-        "sourceName": "FOX56 / WOLF Television",
-        "url": "https://fox56.com/news/local/ballots-cast-across-luzerne-and-lackawanna-counties-in-primary-election",
-        "publishedAt": "2026-05-19",
-        "relevanceSummary": "Post-primary reporting from Luzerne and Lackawanna county election offices confirmed low voter turnout on May 19 and highlighted the ongoing debate over proposed data-center development in Luzerne County as a local election issue heading toward the general. Low primary turnout in the two most populous PA-08 counties signals that both campaigns will need aggressive voter mobilization before November 3.",
+        "id": "news-002",
+        "headline": "Enforcing date requirement for PA mail ballots is ruled unconstitutional (3rd Circuit)",
+        "sourceName": "VoteBeat Pennsylvania",
+        "url": "https://www.votebeat.org/pennsylvania/2025/08/26/mail-ballot-dating-requirement-ruled-unconstitutional-federal-appeals-court/",
+        "publishedAt": "2025-08-26",
+        "relevanceSummary": "3rd Circuit ruled unanimously that PA cannot reject mail ballots for undated or misdated outer envelopes. Eakin v. Adams County Board of Elections. This directly affects PA-08 mail voters.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-003",
+        "headline": "RNC asks U.S. Supreme Court to take up Pennsylvania mail ballot dating case",
+        "sourceName": "The Hill",
+        "url": "https://thehill.com/homenews/campaign/5734318-rnc-petitions-supreme-court-pennsylvania-ballots/",
+        "publishedAt": "2026-02-11",
+        "relevanceSummary": "RNC and Commonwealth of Pennsylvania both petitioned SCOTUS (Commonwealth v. Eakin, No. 25-967). Responses due June 1, 2026. A ruling could change PA mail ballot rules before the November 3 general election.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-004",
+        "headline": "PA Supreme Court rules counties must alert voters whose mail ballots contain errors",
+        "sourceName": "ACLU of Pennsylvania",
+        "url": "https://www.aclupa.org/press-releases/victory-for-democracy-as-state-supreme-court-rules-washington-county-must-alert-voters-whose-mail-ballots-contain-errors/",
+        "publishedAt": "2025-09-29",
+        "relevanceSummary": "PA Supreme Court affirmed in Coalfield Justice v. Washington County that county boards must notify voters of disqualifying errors on mail ballot envelopes, giving them a chance to cast a provisional ballot.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-005",
+        "headline": "Automatic voter registration in PA has enrolled over 350,000 voters — PA-08 counties among top gainers",
+        "sourceName": "Spotlight PA / VoteBeat",
+        "url": "https://www.spotlightpa.org/news/2026/03/automatic-voter-registration-analysis-rural-counties-low-turnout-pennsylvania-elections/",
+        "publishedAt": "2026-03-26",
+        "relevanceSummary": "PA's AVR program registered 353,275 new voters. Pike County (within PA-08) saw outsized gains — 27% of eligible-unregistered residents newly enrolled. However AVR registrants vote at lower rates (32.6%) than traditional new registrants.",
         "tag": "administration",
-        "id": "news-2026-0610-pa-08-05",
         "reviewState": "new"
       },
       {
-        "headline": "Paige Cognetti to face Rob Bresnahan in PA's 8th District general election",
-        "sourceName": "Washington Examiner",
-        "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4573438/pennsylvania-8th-district-results-rob-bresnahan-paige-cognetti/",
-        "publishedAt": "2026-05-20",
-        "relevanceSummary": "National coverage of the PA-08 general-election matchup confirms Cognetti out-raised Bresnahan in April ($495K vs. $315K), notes that Bresnahan has reported buying and selling roughly $7.2 million in stock since taking office \u2014 with trades tied to Medicaid-adjacent companies ahead of key House votes \u2014 and characterizes the Scranton/Wilkes-Barre district as likely among the nation's most expensive and competitive House races in 2026.",
-        "tag": "primary",
-        "id": "news-2026-0610-pa-08-06",
+        "id": "news-006",
+        "headline": "PA mail ballot date rule sparks years of court battles — PA Supreme Court weighing in",
+        "sourceName": "Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2025/09/pennsylvania-mail-ballot-date-requirement-supreme-court-lawsuit-elections/",
+        "publishedAt": "2025-09-22",
+        "relevanceSummary": "Comprehensive timeline of PA mail ballot dating litigation since Act 77 (2019). State and federal courts have repeatedly conflicted. Baxter v. Schmidt (PA Supreme Court, Sep 2025) and Commonwealth v. Eakin (SCOTUS, 2026) are the live cases to watch.",
+        "tag": "litigation",
         "reviewState": "new"
       }
     ],
-    "SOURCES": [],
-    "ELECTION_EVENTS": [],
-    "RULES": [],
-    "RESOURCES": [],
     "LAST_REFRESH": {
-      "id": "run-2026-06-10T22-00-00-pa-08",
-      "startedAt": "2026-06-10T21:59:30.000Z",
-      "completedAt": "2026-06-10T22:00:00Z",
+      "id": "run-2026-05-26-pa08-initial",
+      "startedAt": "2026-06-02T21:00:00Z",
+      "completedAt": "2026-06-02T21:45:00Z",
       "triggerType": "manual",
-      "sourcesChecked": 12,
-      "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "sourcesChecked": 14,
+      "updatesCreated": 3,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "PA-08 weekly refresh on 2026-06-10. Status: Pennsylvania primary (held), general election Nov 3 (146 days out). Incumbent: Rep. Rob Bresnahan (R); opponent: Scranton Mayor Paige Cognetti (D) \u2014 both uncontested in May 19 primary. Six new news items added covering the past week (Jun 3-10). PA-08 general election matchup set: Bresnahan vs. Cognetti, both unopposed in the May 19 primary. This week's stories include the Votebeat ballot-cure study and an ongoing legal challenge to Trump's mail-voting executive order. Local NEPA outlets have been quiet \u2014 most district-level coverage comes from late-May post-primary recaps. Procedural rules and election-event dates unchanged from the bundle baseline; all news items routed to the human-review queue for editor confirmation."
+      "summary": "Initial build May 26, 2026. PA-08 primary passed May 19 — Bresnahan (R) and Cognetti (D) advance to Nov 3 general. All primary deadline tiles forward to general equivalents. Mail ballot dating SCOTUS petition responses due June 1 — key watch item. 5 county offices verified (Lackawanna, Luzerne, Monroe, Pike, Wayne)."
     },
-    "NEXT_REFRESH_AT": "2026-06-12T22:00:00Z",
+    "NEXT_REFRESH_AT": "2026-06-02T19:56:00Z",
     "WEEKLY_REPORT": {
-      "id": "wr-2026-w24-pa-08",
-      "periodStart": "2026-06-08",
-      "periodEnd": "2026-06-14",
-      "sourcesChecked": 12,
-      "newUpdates": 0,
-      "conflictsCreated": 0,
+      "id": "wr-pa08-2026-w21",
+      "periodStart": "2026-05-19",
+      "periodEnd": "2026-05-26",
+      "sourcesChecked": 14,
+      "newUpdates": 3,
+      "conflictsCreated": 1,
       "conflictsResolved": 0,
       "deadlinesChanged": 0,
       "rulesChanged": 0,
       "newsItems": 6,
-      "needsReview": 6,
+      "needsReview": 2,
       "sourceErrors": 0,
-      "summary": "PA-08 general election matchup set: Bresnahan vs. Cognetti, both unopposed in the May 19 primary. This week's stories include the Votebeat ballot-cure study and an ongoing legal challenge to Trump's mail-voting executive order. Local NEPA outlets have been quiet \u2014 most district-level coverage comes from late-May post-primary recaps.",
-      "generatedAt": "2026-06-10T22:00:00Z"
-    },
-    "districtNumber": "PA-08"
-  },
-  "districtCode": "PA-08"
+      "summary": "Initial build week of May 19–26, 2026. PA-08 primary held May 19 — Bresnahan (R) unopposed, Cognetti (D, Mayor of Scranton) unopposed. All primary tiles now forward to general election equivalents. Key active watch: SCOTUS cert petition on mail ballot dating rule (Commonwealth v. Eakin, responses due June 1). PA-08 covers Lackawanna, Luzerne (partial), Monroe (partial), Pike, and Wayne counties.",
+      "generatedAt": "2026-06-02T21:45:00Z"
+    }
+  }
 }
