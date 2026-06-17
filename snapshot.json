@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-02",
-  "updatedAt": "2026-06-02T21:45:00Z",
-  "exportedAt": "2026-06-15T19:44:19.925Z",
+  "dataAsOf": "2026-06-17",
+  "updatedAt": "2026-06-17T22:35:00Z",
+  "exportedAt": "2026-06-17T22:42:41.899Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -680,6 +680,36 @@
         "severity": "low",
         "reviewState": "new",
         "visibility": "internal"
+      },
+      {
+        "id": "upd-004",
+        "title": "General-election deadlines re-verified against PA Department of State; no changes detected",
+        "fieldChanged": "General election 2026 deadlines",
+        "oldValue": "Deadlines confirmed as of 2026-05-26 initial build.",
+        "newValue": "As of the June 17, 2026 refresh, PA Department of State guidance still lists October 19, 2026 as the voter registration deadline, October 27, 2026 as the mail-in/absentee application deadline, and November 3, 2026 as Election Day with mail ballots due by 8:00 PM. Postmarks do not count. Envelope-dating signature requirement still in effect per PA DoS mail-ballot guidance.",
+        "sourceIds": [
+          "src-pa-upcoming",
+          "src-pa-mail-absentee"
+        ],
+        "detectedAt": "2026-06-17T22:30:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-005",
+        "title": "SCOTUS denied RNC emergency request on PA provisional-ballot backstop (June 6, 2026)",
+        "fieldChanged": "Provisional ballot rule (Coalfield Justice backstop)",
+        "oldValue": "Provisional-ballot backstop under PA Supreme Court ruling in Center for Coalfield Justice v. Washington County Board of Elections still operative; awaiting any federal challenge.",
+        "newValue": "On June 6, 2026, the U.S. Supreme Court denied the RNC's emergency request to block PA from counting provisional ballots cast by voters whose mail-in ballots were invalid due to envelope errors. Denial was procedural — the case (limited to two voters in one county) was not a proper vehicle for statewide relief. Justices Alito, Thomas, and Gorsuch wrote separately leaving the underlying constitutional question open. The Coalfield Justice provisional-ballot backstop remains operative for November 3, 2026.",
+        "sourceIds": [
+          "src-spotlight-pa-mailballot",
+          "src-votebeat-pa"
+        ],
+        "detectedAt": "2026-06-17T22:35:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "public"
       }
     ],
     "CONFLICTS": [
@@ -769,35 +799,55 @@
         "relevanceSummary": "Comprehensive timeline of PA mail ballot dating litigation since Act 77 (2019). State and federal courts have repeatedly conflicted. Baxter v. Schmidt (PA Supreme Court, Sep 2025) and Commonwealth v. Eakin (SCOTUS, 2026) are the live cases to watch.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-007",
+        "headline": "PA primary results: Cognetti (D) to face Bresnahan (R) in PA-08 lean-R rematch territory",
+        "sourceName": "Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2026/05/primary-election-results-us-house-pennsylvaia-contested-races-elections/",
+        "publishedAt": "2026-05-19",
+        "relevanceSummary": "Statewide primary recap: Scranton Mayor Paige Cognetti ran unopposed for the Democratic nomination; incumbent Rob Bresnahan (R) ran unopposed in the Republican primary. Sabato's Crystal Ball rates the Nov. 3 race lean Republican.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-008",
+        "headline": "SCOTUS denies RNC emergency request to block PA provisional-ballot backstop",
+        "sourceName": "Voting Rights Lab",
+        "url": "https://votingrightslab.org/report/https-votingrightslab-org-report-whats-at-stake-for-elections-at-the-supreme-court/",
+        "publishedAt": "2026-06-06",
+        "relevanceSummary": "On June 6, 2026, SCOTUS denied the RNC's emergency request to stop PA from counting provisional ballots from voters whose mail-in ballots had envelope errors. Denial was procedural (case was limited to two voters in one county). Alito/Thomas/Gorsuch wrote separately leaving the constitutional question open.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-05-26-pa08-initial",
-      "startedAt": "2026-06-02T21:00:00Z",
-      "completedAt": "2026-06-02T21:45:00Z",
+      "id": "run-2026-06-17-pa08-refresh-2",
+      "startedAt": "2026-06-17T22:05:00Z",
+      "completedAt": "2026-06-17T22:35:00Z",
       "triggerType": "manual",
       "sourcesChecked": 14,
-      "updatesCreated": 3,
-      "conflictsCreated": 1,
+      "updatesCreated": 2,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build May 26, 2026. PA-08 primary passed May 19 — Bresnahan (R) and Cognetti (D) advance to Nov 3 general. All primary deadline tiles forward to general equivalents. Mail ballot dating SCOTUS petition responses due June 1 — key watch item. 5 county offices verified (Lackawanna, Luzerne, Monroe, Pike, Wayne)."
+      "summary": "June 17, 2026 bi-weekly refresh for PA-08. Re-verified PA Department of State upcoming-elections and mail-in/absentee guidance directly: general-election deadlines unchanged (Oct. 19 registration, Oct. 27 mail-application, Nov. 3 Election Day and 8:00 PM mail-ballot receipt; postmarks do not count; envelope-dating signature requirement still in effect). Cognetti (D, unopposed) vs. Bresnahan (R, incumbent, unopposed) confirmed for Nov. 3. New: documented June 6, 2026 SCOTUS denial of RNC emergency request on PA provisional-ballot backstop (Coalfield Justice rule survives). Commonwealth v. Eakin (envelope-dating) still pending at SCOTUS. Watson v. RNC (Mississippi/Alaska late ballots) decision expected end of June; PA receipt-by-8pm rule unaffected directly. All lastVerified dates bumped to 2026-06-17. No confidence flips."
     },
-    "NEXT_REFRESH_AT": "2026-06-02T19:56:00Z",
+    "NEXT_REFRESH_AT": "2026-07-01T22:05:00Z",
     "WEEKLY_REPORT": {
-      "id": "wr-pa08-2026-w21",
-      "periodStart": "2026-05-19",
-      "periodEnd": "2026-05-26",
+      "id": "wr-pa08-2026-w25",
+      "periodStart": "2026-06-03",
+      "periodEnd": "2026-06-17",
       "sourcesChecked": 14,
-      "newUpdates": 3,
-      "conflictsCreated": 1,
+      "newUpdates": 2,
+      "conflictsCreated": 0,
       "conflictsResolved": 0,
       "deadlinesChanged": 0,
       "rulesChanged": 0,
-      "newsItems": 6,
+      "newsItems": 2,
       "needsReview": 2,
       "sourceErrors": 0,
-      "summary": "Initial build week of May 19–26, 2026. PA-08 primary held May 19 — Bresnahan (R) unopposed, Cognetti (D, Mayor of Scranton) unopposed. All primary tiles now forward to general election equivalents. Key active watch: SCOTUS cert petition on mail ballot dating rule (Commonwealth v. Eakin, responses due June 1). PA-08 covers Lackawanna, Luzerne (partial), Monroe (partial), Pike, and Wayne counties.",
-      "generatedAt": "2026-06-02T21:45:00Z"
+      "summary": "Bi-weekly period June 3–17, 2026: General-election deadlines re-verified directly against PA DoS — unchanged. Cognetti (D) vs. Bresnahan (R) confirmed for Nov. 3 (Sabato rates lean R). New litigation watch: SCOTUS denied RNC emergency request (June 6) on PA provisional-ballot backstop — Coalfield Justice rule survives. Commonwealth v. Eakin (envelope-dating) still pending. No procedure changes detected; no confidence flips.",
+      "generatedAt": "2026-06-17T22:35:00Z"
     }
   }
 }
