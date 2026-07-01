@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-17",
-  "updatedAt": "2026-06-17T22:35:00Z",
-  "exportedAt": "2026-07-01T05:40:31.326Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T19:56:59.543Z",
+  "exportedAt": "2026-07-01T20:04:18.269Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-pa-register": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -168,7 +168,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-07-01",
         "confidence": "high",
         "notes": "Director: Emily Cook. Phone: (570) 825-1715. 20 N. Pennsylvania Ave., Ste. 207, Wilkes-Barre, PA 18701."
       },
@@ -822,17 +822,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-17-pa08-refresh-2",
-      "startedAt": "2026-06-17T22:05:00Z",
-      "completedAt": "2026-06-17T22:35:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 14,
-      "updatesCreated": 2,
-      "conflictsCreated": 0,
+      "id": "run-2026-07-01-pa08-auto",
+      "startedAt": "2026-07-01T19:56:35.559Z",
+      "completedAt": "2026-07-01T19:56:59.543Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 15,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "June 17, 2026 bi-weekly refresh for PA-08. Re-verified PA Department of State upcoming-elections and mail-in/absentee guidance directly: general-election deadlines unchanged (Oct. 19 registration, Oct. 27 mail-application, Nov. 3 Election Day and 8:00 PM mail-ballot receipt; postmarks do not count; envelope-dating signature requirement still in effect). Cognetti (D, unopposed) vs. Bresnahan (R, incumbent, unopposed) confirmed for Nov. 3. New: documented June 6, 2026 SCOTUS denial of RNC emergency request on PA provisional-ballot backstop (Coalfield Justice rule survives). Commonwealth v. Eakin (envelope-dating) still pending at SCOTUS. Watson v. RNC (Mississippi/Alaska late ballots) decision expected end of June; PA receipt-by-8pm rule unaffected directly. All lastVerified dates bumped to 2026-06-17. No confidence flips."
+      "summary": "Automated refresh completed 2026-07-01 for PA-08. Sources checked: 15. LLM verifications: 7. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-01T22:05:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:56:59.543Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
