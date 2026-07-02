@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T19:56:59.543Z",
-  "exportedAt": "2026-07-01T20:04:18.269Z",
+  "exportedAt": "2026-07-02T04:25:13.830Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -537,7 +537,7 @@
       {
         "id": "rule-pa-dating-watch",
         "topic": "Mail ballot envelope dating (SCOTUS watch)",
-        "currentRule": "Counties currently cannot reject mail ballots for undated or misdated outer envelopes per 3rd Circuit ruling (Aug 2025). SCOTUS petition pending (Commonwealth v. Eakin). Responses due June 1, 2026.",
+        "currentRule": "Counties currently cannot reject mail ballots for undated or misdated outer envelopes per 3rd Circuit ruling (Aug 2025); the Pennsylvania Supreme Court reached the same conclusion in Genser (Sept 2024). SCOTUS petition pending (Commonwealth v. Eakin). Responses due June 1, 2026.",
         "status": "watch",
         "whyItMatters": "A SCOTUS reversal could invalidate ballots with undated envelopes in the November 3 general. Voters should always date their return envelope to protect against a rule change.",
         "governingLevel": "statewide",
@@ -546,7 +546,7 @@
           "src-votebeat-pa"
         ],
         "confidence": "low",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-07-01",
         "needsReview": true,
         "detail": "Commonwealth v. Eakin, No. 25-967 at SCOTUS. Monitor for cert grant or denial after June 1 response deadline."
       },
