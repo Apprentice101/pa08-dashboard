@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:32:22.744Z",
-  "exportedAt": "2026-07-03T00:38:16.353Z",
+  "updatedAt": "2026-07-03T01:36:30.726Z",
+  "exportedAt": "2026-07-03T01:43:46.407Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-pa-register": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -220,7 +220,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-07-03",
         "confidence": "medium",
         "notes": "Tracks ongoing PA mail ballot envelope-dating litigation (state + federal)."
       },
@@ -819,20 +819,30 @@
         "relevanceSummary": "On June 6, 2026, SCOTUS denied the RNC's emergency request to stop PA from counting provisional ballots from voters whose mail-in ballots had envelope errors. Denial was procedural (case was limited to two voters in one county). Alito/Thomas/Gorsuch wrote separately leaving the constitutional question open.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-07a43k5",
+        "headline": "Shapiro leaves 7 election advisory board seats vacant",
+        "sourceName": "Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2026/06/pennsylvania-election-board-shapiro-appointments-vacant-elections/",
+        "publishedAt": "2026-06-24",
+        "relevanceSummary": "Spotlight PA reports that Pennsylvania’s statewide election advisory board has not met in nearly three years because seven of its seats remain vacant, even as county election officials seek updates to outdated state election laws that govern mail voting, ballot processing, and other procedures.[5] Any future changes this board might recommend would apply statewide, affecting how voters in PA-08 cast ballots and how their elections are administered.[5]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-pa08-auto",
-      "startedAt": "2026-07-03T00:31:52.119Z",
-      "completedAt": "2026-07-03T00:32:22.744Z",
+      "startedAt": "2026-07-03T01:36:06.593Z",
+      "completedAt": "2026-07-03T01:36:30.726Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "sourcesChecked": 14,
+      "updatesCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for PA-08. Sources checked: 15. LLM verifications: 8. 5 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-03 for PA-08. Sources checked: 14. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:32:22.744Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:36:30.726Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
