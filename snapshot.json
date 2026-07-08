@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:26:08.712Z",
-  "exportedAt": "2026-07-08T06:29:47.554Z",
+  "updatedAt": "2026-07-08T19:38:59.122Z",
+  "exportedAt": "2026-07-08T19:44:28.666Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -833,16 +833,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-pa08-auto",
-      "startedAt": "2026-07-08T06:26:04.431Z",
-      "completedAt": "2026-07-08T06:26:08.712Z",
+      "startedAt": "2026-07-08T19:38:54.819Z",
+      "completedAt": "2026-07-08T19:38:59.122Z",
       "triggerType": "scheduled",
       "sourcesChecked": 16,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for PA-08. Sources checked: 16. LLM verifications: 9. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for PA-08. Sources checked: 16. LLM verifications: 7. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:26:08.712Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:38:59.122Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
