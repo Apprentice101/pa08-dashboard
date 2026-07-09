@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:38:59.122Z",
-  "exportedAt": "2026-07-08T20:36:37.384Z",
+  "exportedAt": "2026-07-09T17:05:10.375Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -568,24 +568,64 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-pa-voter-services",
-        "label": "PA Voter Services Portal",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official PA voter portal: register to vote, check registration status, apply for mail ballot, and track ballot status.",
         "url": "https://www.pavoterservices.pa.gov",
         "governingAuthority": "Pennsylvania Department of State",
         "sourceType": "official-state",
         "sourceId": "src-pa-register",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-pa-ballot-tracking",
-        "label": "PA Mail Ballot Tracker",
-        "description": "Track the status of your mail-in or absentee ballot online through the official PA voter services portal.",
-        "url": "https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx",
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Official polling place search tool for Pennsylvania voters to find their voting location by address.",
+        "url": "https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx",
         "governingAuthority": "Pennsylvania Department of State",
         "sourceType": "official-state",
-        "sourceId": "src-pa-ballot-tracking",
-        "lastVerified": "2026-05-26"
+        "sourceId": "src-pa-dos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Official list of ballot return locations, including secure drop boxes, for Lackawanna County voters.",
+        "url": "https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/return-ballot#accordion-de4d034c00-item-fb6fde7687",
+        "governingAuthority": "Pennsylvania Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-pa-dos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Official PA voter portal: register to vote, check registration status, apply for mail ballot, and track ballot status.",
+        "url": "https://www.pavoterservices.pa.gov",
+        "governingAuthority": "Pennsylvania Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-pa-register",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Official PA voter portal: register to vote, check registration status, apply for mail ballot, and track ballot status.",
+        "url": "https://www.pavoterservices.pa.gov",
+        "governingAuthority": "Pennsylvania Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-pa-register",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Pennsylvania election returns.",
+        "url": "https://www.electionreturns.pa.gov/",
+        "governingAuthority": "PA Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-pa-dos",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-lackawanna",
@@ -595,16 +635,6 @@
         "governingAuthority": "Lackawanna County Bureau of Elections",
         "sourceType": "official-county",
         "sourceId": "src-lackawanna-elections",
-        "lastVerified": "2026-05-26"
-      },
-      {
-        "id": "res-luzerne",
-        "label": "Luzerne County Board of Elections (Wilkes-Barre)",
-        "description": "Wilkes-Barre / Hazleton area election office. Phone: (570) 825-1715. 20 N. Pennsylvania Ave., Ste. 207.",
-        "url": "https://www.luzernecounty.org/1082/Board-of-Elections-and-Registration",
-        "governingAuthority": "Luzerne County Board of Elections",
-        "sourceType": "official-county",
-        "sourceId": "src-luzerne-elections",
         "lastVerified": "2026-05-26"
       },
       {
