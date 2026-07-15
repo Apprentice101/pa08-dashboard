@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:38:59.122Z",
-  "exportedAt": "2026-07-09T17:05:10.375Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:33:32.641Z",
+  "exportedAt": "2026-07-15T06:41:40.540Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -143,7 +143,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-lackawanna-elections": {
@@ -155,7 +155,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -859,20 +859,40 @@
         "relevanceSummary": "Spotlight PA reports that Pennsylvania’s statewide election advisory board has not met in nearly three years because seven of its seats remain vacant, even as county election officials seek updates to outdated state election laws that govern mail voting, ballot processing, and other procedures.[5] Any future changes this board might recommend would apply statewide, affecting how voters in PA-08 cast ballots and how their elections are administered.[5]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0v357tt",
+        "headline": "PA voting laws could change if Democrats win 2026 elections",
+        "sourceName": "Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2026/07/election-law-changes-democratic-trifecta-2026-midterm-shapiro-elections/",
+        "publishedAt": "2026-07-12",
+        "relevanceSummary": "This article explains that a Democratic trifecta in Pennsylvania could bring major voting-law changes, including expanded pre-canvassing of mail ballots and codifying key election-related court rulings, directly shaping how PA-08 voters register, vote by mail, and see their ballots counted.[4]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0rk8lsi",
+        "headline": "Pa. House passes ‘pre-canvassing' bill that would speed up election results",
+        "sourceName": "KYW Newsradio",
+        "url": "https://www.audacy.com/kywnewsradio/news/local/pa-bill-pre-canvassing-election-ballots",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "The Pennsylvania House passed a bill to let county officials begin preparing mail-in ballots for counting one week before Election Day, which could significantly speed up how quickly PA-08 voters see official results and affect local election administration timelines.[2]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-pa08-auto",
-      "startedAt": "2026-07-08T19:38:54.819Z",
-      "completedAt": "2026-07-08T19:38:59.122Z",
+      "id": "run-2026-07-15-pa08-auto",
+      "startedAt": "2026-07-15T06:32:50.385Z",
+      "completedAt": "2026-07-15T06:33:32.641Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
-      "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "sourcesChecked": 14,
+      "updatesCreated": 2,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for PA-08. Sources checked: 16. LLM verifications: 7. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for PA-08. Sources checked: 14. LLM verifications: 11. 5 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:38:59.122Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:33:32.641Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
