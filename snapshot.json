@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:33:32.641Z",
-  "exportedAt": "2026-07-15T06:41:40.540Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:44:35.760Z",
+  "exportedAt": "2026-07-22T06:53:10.814Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -143,7 +143,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-lackawanna-elections": {
@@ -155,7 +155,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -882,17 +882,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-pa08-auto",
-      "startedAt": "2026-07-15T06:32:50.385Z",
-      "completedAt": "2026-07-15T06:33:32.641Z",
+      "id": "run-2026-07-22-pa08-auto",
+      "startedAt": "2026-07-22T06:44:02.248Z",
+      "completedAt": "2026-07-22T06:44:35.760Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
-      "updatesCreated": 2,
+      "sourcesChecked": 15,
+      "updatesCreated": 0,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for PA-08. Sources checked: 14. LLM verifications: 11. 5 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-22 for PA-08. Sources checked: 15. LLM verifications: 10. 5 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:33:32.641Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:44:35.760Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
