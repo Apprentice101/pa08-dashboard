@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:44:35.760Z",
-  "exportedAt": "2026-07-22T21:18:15.275Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:48:23.715Z",
+  "exportedAt": "2026-07-29T06:56:52.549Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-pa-register": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -155,7 +155,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -879,20 +879,70 @@
         "relevanceSummary": "The Pennsylvania House passed a bill to let county officials begin preparing mail-in ballots for counting one week before Election Day, which could significantly speed up how quickly PA-08 voters see official results and affect local election administration timelines.[2]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0yeqsd6",
+        "headline": "McCormick, Pa. GOP push voter ID bill but don’t challenge Trump’s 2020 fraud claims",
+        "sourceName": "PennLive",
+        "url": "https://www.pennlive.com/politics/2026/07/mccormick-pa-gop-push-voter-id-bill-but-dont-challenge-trumps-2020-fraud-claims.html",
+        "publishedAt": "2026-07-28",
+        "relevanceSummary": "This article describes a Pennsylvania Republican-backed voter ID bill that would require proof of citizenship to register to vote, photo ID at the polls, and would scale back mail voting, changes that would directly affect registration, in‑person voting, and mail‑in ballot use for voters in PA‑08 if enacted.[1]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0pe9n4l",
+        "headline": "U.S. House passes bill requiring photo ID for federal elections",
+        "sourceName": "ABC 6 News (KAAL-TV)",
+        "url": "https://www.kaaltv.com/news/u-s-house-passes-bill-requiring-photo-id-for-federal-elections/",
+        "publishedAt": "2026-07-27",
+        "relevanceSummary": "This article details House‑passed legislation that would require voters to present physical photo ID for all federal in‑person ballots and include a photocopy of their ID with mail‑in and absentee ballots, directly addressing voter-ID requirements, ID-copy rules for mail ballots, and provisional ballot procedures that would apply to PA‑08 if enacted.[3]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0bsc2pv",
+        "headline": "House Passes 232-198 Voter ID Bill Tied to Congressional ...",
+        "sourceName": "Zetik News",
+        "url": "https://www.zetik.com/news/article/story_id-p008-170574",
+        "publishedAt": "2026-07-27",
+        "relevanceSummary": "This piece reports that the U.S. House passed a voter ID bill expanding photo ID requirements to mail‑in and absentee ballots nationwide and tying them to proof‑of‑citizenship rules, which could alter ID-copy requirements and registration procedures for PA‑08 voters in future federal elections if it becomes law.[2]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0uw1iut",
+        "headline": "House passes bill that would ban members from buying stock",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/house-passes-bill-ban-members-buying-stock/story?id=135001297",
+        "publishedAt": "2026-07-26",
+        "relevanceSummary": "Beyond stock-trading limits, this story explains that the same bill would mandate voters provide valid physical photo identification to cast federal ballots, and allow mail‑in and absentee voters to attach photocopies of their IDs, outlining potential new voter-ID and mail‑ballot ID-copy requirements affecting PA‑08 voters in federal elections.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-04zu1ks",
+        "headline": "Trump-backed SAVE Act is newest effort to collect private voter data",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/trump-backed-save-act-newest-effort-collect-private/story?id=135030149",
+        "publishedAt": "2026-07-25",
+        "relevanceSummary": "This article describes the Trump-backed Safeguard American Voter Eligibility (SAVE) / SAVE America Act, which would require voter ID at the ballot box, proof of citizenship to register, and mandate states—including Pennsylvania—to share data from SSA and state IDs to verify citizenship, potentially changing registration, voter-ID, and data-handling rules for PA‑08 voters.[5]",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-pa08-auto",
-      "startedAt": "2026-07-22T06:44:02.248Z",
-      "completedAt": "2026-07-22T06:44:35.760Z",
+      "id": "run-2026-07-29-pa08-auto",
+      "startedAt": "2026-07-29T06:47:59.971Z",
+      "completedAt": "2026-07-29T06:48:23.715Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 0,
+      "sourcesChecked": 13,
+      "updatesCreated": 5,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for PA-08. Sources checked: 15. LLM verifications: 10. 5 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-29 for PA-08. Sources checked: 13. LLM verifications: 5. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:44:35.760Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:48:23.715Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
