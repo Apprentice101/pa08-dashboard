@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:48:23.715Z",
-  "exportedAt": "2026-07-29T06:56:52.549Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:41:48.978Z",
+  "exportedAt": "2026-08-05T06:50:36.704Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-pa-register": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -155,7 +155,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -929,20 +929,30 @@
         "relevanceSummary": "This article describes the Trump-backed Safeguard American Voter Eligibility (SAVE) / SAVE America Act, which would require voter ID at the ballot box, proof of citizenship to register, and mandate states—including Pennsylvania—to share data from SSA and state IDs to verify citizenship, potentially changing registration, voter-ID, and data-handling rules for PA‑08 voters.[5]",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0revsvn",
+        "headline": "Ballots in Bresnahan-Cognetti race won't feature third-party candidates",
+        "sourceName": "The Times-Tribune",
+        "url": "https://www.thetimes-tribune.com/2026/08/04/ballots-in-bresnahan-cognetti-race-wont-feature-third-party-candidates/",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "The Pennsylvania Department of State confirmed that no independent or third‑party candidates met the Aug. 4 nomination paper deadline for PA‑08, meaning November ballots in the district will list only Rob Bresnahan and Paige Cognetti for U.S. House, clarifying the general‑election ballot for voters.[1]",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-pa08-auto",
-      "startedAt": "2026-07-29T06:47:59.971Z",
-      "completedAt": "2026-07-29T06:48:23.715Z",
+      "id": "run-2026-08-05-pa08-auto",
+      "startedAt": "2026-08-05T06:41:24.438Z",
+      "completedAt": "2026-08-05T06:41:48.978Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 5,
+      "updatesCreated": 1,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for PA-08. Sources checked: 13. LLM verifications: 5. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-05 for PA-08. Sources checked: 13. LLM verifications: 6. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:48:23.715Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:41:48.978Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
