@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:41:48.978Z",
-  "exportedAt": "2026-08-05T06:50:36.704Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:42:19.412Z",
+  "exportedAt": "2026-08-12T05:49:52.184Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-pa-register": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -181,7 +181,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-08-12",
         "confidence": "high",
         "notes": "Director: Sara May-Silfee. Phone: (570) 517-3165. One Quaker Plaza, Rm. 105, Stroudsburg, PA 18360."
       },
@@ -939,20 +939,50 @@
         "relevanceSummary": "The Pennsylvania Department of State confirmed that no independent or third‑party candidates met the Aug. 4 nomination paper deadline for PA‑08, meaning November ballots in the district will list only Rob Bresnahan and Paige Cognetti for U.S. House, clarifying the general‑election ballot for voters.[1]",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0makgvg",
+        "headline": "Senate Democrats vote against bill requiring photo ID to cast ballots",
+        "sourceName": "Just the News",
+        "url": "https://justthenews.com/government/congress/senate-democrats-vote-against-bill-requiring-photo-id-cast-ballots",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "This reports on a failed federal photo-ID bill that would have required voters to show photo identification and to provide a copy of ID when voting by mail. While not law, it is directly relevant to PA-08 voters because federal voter-ID proposals can affect Pennsylvania election procedures if enacted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-01f4l8o",
+        "headline": "Roll Call Vote 119 th Congress - 2 nd Session",
+        "sourceName": "U.S. Senate",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00231.htm",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "The Senate roll call confirms the cloture vote on a bill requiring photo ID to cast ballots, which failed 52-46. This matters to PA-08 voters because it shows the proposal did not advance, so Pennsylvania rules remain unchanged for now.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0m9fmaw",
+        "headline": "S.5271 - A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification.",
+        "sourceName": "Congress.gov",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5271",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "The bill text and latest action show a Senate cloture vote on legislation to require photo identification to vote in federal elections. PA-08 voters should watch this because it could create new in-person and mail ballot ID rules if it advances further.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-pa08-auto",
-      "startedAt": "2026-08-05T06:41:24.438Z",
-      "completedAt": "2026-08-05T06:41:48.978Z",
+      "id": "run-2026-08-12-pa08-auto",
+      "startedAt": "2026-08-12T05:41:39.462Z",
+      "completedAt": "2026-08-12T05:42:19.412Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 1,
+      "sourcesChecked": 15,
+      "updatesCreated": 3,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for PA-08. Sources checked: 13. LLM verifications: 6. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-12 for PA-08. Sources checked: 15. LLM verifications: 8. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:41:48.978Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:42:19.412Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
