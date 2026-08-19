@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:42:19.412Z",
-  "exportedAt": "2026-08-12T05:49:52.184Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T05:00:38.014Z",
+  "exportedAt": "2026-08-19T05:10:04.225Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-pa-register": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -155,7 +155,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -969,20 +969,90 @@
         "relevanceSummary": "The bill text and latest action show a Senate cloture vote on legislation to require photo identification to vote in federal elections. PA-08 voters should watch this because it could create new in-person and mail ballot ID rules if it advances further.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0f8pt4m",
+        "headline": "Pennsylvania elections could look very different if Democrats win full control of state government in 2026",
+        "sourceName": "Knox Radio",
+        "url": "https://knoxradio.com/2026/08/18/pennsylvania-elections-could-look-very-different-if-democrats-win-full-control-of-state-government-in-2026/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "The article discusses proposed statewide election legislation that would create true in-person early voting, require at least two mail ballot drop boxes per county, and mandate adoption of electronic pollbooks, outlining potential future changes to voting procedures and ballot access that would directly affect how PA-08 voters cast ballots if enacted.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0yadfz8",
+        "headline": "Here’s how to vote in Pennsylvania’s 2026 midterm elections",
+        "sourceName": "Keystone Newsroom",
+        "url": "https://keystonenewsroom.com/news/elections/how-to-vote-pa-midterm-elections/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This statewide voter guide explains Pennsylvania’s 2026 voting procedures, including registration and mail-ballot application deadlines, rules for using secrecy and return envelopes, drop box usage, and acceptable identification for first-time or relocated in-person voters—all of which apply directly to PA-08 residents for November’s general election.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-04j8exw",
+        "headline": "Ward Introduces Legislation to Strengthen, Modernize Pennsylvania’s Voter Registration System",
+        "sourceName": "Senator Judy Ward",
+        "url": "https://senatorjudyward.com/2026/08/17/ward-introduces-legislation-to-strengthen-modernize-pennsylvanias-voter-registration-system/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "This statewide bill would require county election commissions across Pennsylvania to conduct annual voter-registration maintenance, set clearer timelines for removing deceased voters, and provide notice and provisional ballot options if a voter is removed in error—procedures that directly affect registration records and list maintenance for PA-08 voters.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0qw6994",
+        "headline": "Clearfield County Seeks Poll Workers for Upcoming Fall Election",
+        "sourceName": "Gant News",
+        "url": "https://gantnews.com/2026/08/14/clearfield-county-seeks-poll-workers-for-upcoming-fall-election/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This piece outlines poll worker recruitment, training, and compensation in Clearfield County, along with state Act 88 reimbursements for election administration and security, illustrating county-level implementation of Pennsylvania’s election staffing and funding practices that can inform expectations for procedures in other counties such as those in PA-08.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0jj3p6e",
+        "headline": "Pennsylvania Perspective for Thursday, August 13, 2026",
+        "sourceName": "Cozen O’Connor Public Strategies",
+        "url": "https://copublicstrategies.com/pennsylvania-perspective-for-thursday-august-13-2026/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This update notes a federal judge’s expansion of an injunction against a presidential executive order that sought to alter mail-in voting regulations nationwide before the November midterm, a legal development relevant to Pennsylvania voters in PA-08 because it affects the stability of existing mail-in ballot rules for the general election.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0c15p15",
+        "headline": "County Needs Election Workers For November",
+        "sourceName": "NewtownPANow.com",
+        "url": "https://newtownpanow.com/2026/08/13/county-needs-election-workers-for-november/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Bucks County, which includes PA-08, is recruiting election workers and describes required qualifications, roles at polling sites, and mandatory training, providing insight into local election administration and how district voters can help staff polling locations for the November general.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0k28whx",
+        "headline": "6 important things to know about voting by mail in Pennsylvania",
+        "sourceName": "Keystone Newsroom",
+        "url": "https://keystonenewsroom.com/news/elections/6-important-things-to-know-about-voting-by-mail-in-pennsylvania/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This article details statewide mail-in ballot procedures, including how to apply, strict deadlines for ballot receipt, requirements for properly using secrecy and outer envelopes, signature and date rules, and restrictions on who may return a mail ballot, giving PA-08 voters practical guidance on avoiding disqualifying errors with mail voting.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-pa08-auto",
-      "startedAt": "2026-08-12T05:41:39.462Z",
-      "completedAt": "2026-08-12T05:42:19.412Z",
+      "id": "run-2026-08-19-pa08-auto",
+      "startedAt": "2026-08-19T04:59:53.285Z",
+      "completedAt": "2026-08-19T05:00:38.014Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 3,
+      "sourcesChecked": 13,
+      "updatesCreated": 7,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for PA-08. Sources checked: 15. LLM verifications: 8. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-19 for PA-08. Sources checked: 13. LLM verifications: 6. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:42:19.412Z",
+    "NEXT_REFRESH_AT": "2026-08-26T05:00:38.014Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
