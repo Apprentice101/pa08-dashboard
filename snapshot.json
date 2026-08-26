@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T05:00:38.014Z",
-  "exportedAt": "2026-08-19T05:10:04.225Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T05:07:42.993Z",
+  "exportedAt": "2026-08-26T05:17:57.575Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-pa-register": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -168,7 +168,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "Director: Emily Cook. Phone: (570) 825-1715. 20 N. Pennsylvania Ave., Ste. 207, Wilkes-Barre, PA 18701."
       },
@@ -1039,20 +1039,100 @@
         "relevanceSummary": "This article details statewide mail-in ballot procedures, including how to apply, strict deadlines for ballot receipt, requirements for properly using secrecy and outer envelopes, signature and date rules, and restrictions on who may return a mail ballot, giving PA-08 voters practical guidance on avoiding disqualifying errors with mail voting.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0ckq13q",
+        "headline": "Pa. election 2026: Voter guides, key races and more",
+        "sourceName": "WHYY",
+        "url": "https://whyy.org/articles/pennsylvania-election-2026-voter-guide-deadlines-candidates/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This statewide voter guide compiles **Pennsylvania voter resources**, including how to register, find polling places, apply for and track mail or absentee ballots, and locate mail‑ballot drop‑off options, providing PA‑08 voters with practical, up‑to‑date instructions for participating in the 2026 election.[8]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0fjpzvf",
+        "headline": "Shapiro: Mail voting unchanged for 2026 after SCOTUS ruling",
+        "sourceName": "Axios Pittsburgh",
+        "url": "https://www.axios.com/local/pittsburgh/2026/08/25/supreme-court-mail-voting-shapiro-pennsylvania-2026",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This statewide piece explains that despite a recent U.S. Supreme Court ruling and a new USPS mail‑ballot policy, Gov. Josh Shapiro and the Pennsylvania Department of State say **nothing has changed for November’s election** and counties will continue to follow **existing mail‑in and absentee ballot procedures**, which directly governs how PA‑08 voters can vote by mail.[2][11][14]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0cwd3qq",
+        "headline": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+        "sourceName": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This national litigation coverage explains that while the Supreme Court allowed parts of Trump’s mail‑voting limits, a **nationwide injunction currently blocks USPS from implementing the new procedures** for the upcoming election, meaning PA‑08 voters’ existing mail‑ballot processes remain in place unless courts change course.[10][11][4]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-023spxi",
+        "headline": "US Postal Service issues rules to tighten mail-in voting if court gives OK",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/world/us-postal-service-issues-rules-tighten-mail-in-voting-if-court-gives-ok-2026-08-22/",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This article details the USPS’s finalized rule for federal elections that would require states, including Pennsylvania, to submit voter and ballot‑tracking data and use **unique barcodes on outbound and return ballot envelopes**, potentially affecting how PA‑08 mail ballots are processed and tracked if the rule takes effect.[11][4][14]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0qrrhk4",
+        "headline": "Pennsylvania elections could look very different if Democrats win full control of state government in 2026",
+        "sourceName": "Stacker",
+        "url": "https://kesq.com/stacker-government-politics/2026/08/20/pennsylvania-elections-could-look-very-different-if-democrats-win-full-control-of-state-government-in-2026/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This analysis of a previously passed state House omnibus election bill describes potential future **procedural changes** in Pennsylvania—such as true in‑person early voting, mandatory mail‑ballot drop boxes in every county, electronic pollbooks, and expanded pre‑canvassing—that would reshape voting options and election administration for PA‑08 if enacted.[5]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-03y5rde",
+        "headline": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+        "sourceName": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This story explains the finalized USPS plan under which the agency would **review every mail‑ballot envelope for compliance** with new standards before accepting it, a potential change in mail‑ballot handling that could affect timing and processing for PA‑08 voters in future federal elections.[14][11]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0fcy6dp",
+        "headline": "PA governor race 2026: Where the candidates stand on elections",
+        "sourceName": "Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2026/08/pennsylvania-governor-race-elections-voting-shapiro-garrity/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This statewide elections piece notes that under current Pennsylvania law **voters must show ID only the first time they vote at a polling place or when voting at a new location**, clarifying baseline in‑person voter‑ID requirements that apply to PA‑08 voters and could change depending on future gubernatorial policy.[13]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0uw69h4",
+        "headline": "Luzerne County's new voting equipment set to arrive next week",
+        "sourceName": "Times Leader",
+        "url": "https://www.timesleader.com/news/1752534/luzerne-countys-new-voting-equipment-set-to-arrive-next-week",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Luzerne County, which is part of PA‑08, is switching to **Hart InterCivic paper‑ballot scanners and new ballot‑marking devices**, and officials are reviewing **drop box footage and usage**, directly affecting how voters in the district will cast and return ballots and how their votes will be counted in 2026.[1]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-pa08-auto",
-      "startedAt": "2026-08-19T04:59:53.285Z",
-      "completedAt": "2026-08-19T05:00:38.014Z",
+      "id": "run-2026-08-26-pa08-auto",
+      "startedAt": "2026-08-26T05:06:52.637Z",
+      "completedAt": "2026-08-26T05:07:42.993Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 7,
+      "sourcesChecked": 14,
+      "updatesCreated": 8,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for PA-08. Sources checked: 13. LLM verifications: 6. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-26 for PA-08. Sources checked: 14. LLM verifications: 6. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T05:00:38.014Z",
+    "NEXT_REFRESH_AT": "2026-09-02T05:07:42.993Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
