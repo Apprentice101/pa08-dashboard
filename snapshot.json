@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:58:58.276Z",
-  "exportedAt": "2026-09-04T01:13:15.089Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T09:11:32.530Z",
+  "exportedAt": "2026-09-09T09:22:11.579Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-pa-ballot-tracking": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-pa-register": {
@@ -107,7 +107,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -155,7 +155,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -1195,20 +1195,70 @@
         "relevanceSummary": "USA Today reports the Postal Service’s new rule would require election officials to submit voters’ names and addresses through a portal before mail ballots are sent. Because Pennsylvania voters rely heavily on mail ballots, any change to that process matters directly to PA-08.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0cq9bcv",
+        "headline": "Allegheny County Officials: Mail-In Balloting To Proceed As Planned",
+        "sourceName": "Patch",
+        "url": "https://patch.com/pennsylvania/pittsburgh/allegheny-county-officials-mail-balloting-proceed-planned",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "Allegheny County is in Pennsylvania and its mail-ballot instructions affect PA-08 voters in the district’s county footprint. The article says voters may return completed ballots by mail or at authorized in-person drop-off locations, and that polling places remain open from 7 a.m. to 8 p.m.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-01vypfr",
+        "headline": "Pennsylvania midterm elections 2026 key races to watch",
+        "sourceName": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/politics/pennsylvania/pennsylvania-midterm-elections-2026-key-races-20260904.html",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "This statewide Pennsylvania voter-information piece includes procedural deadlines that apply to PA-08 voters, including registration, mail-ballot application, and return deadlines. The article says voters can register online, by mail, or at county offices, and that completed mail ballots must be received by 8 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0ec56ik",
+        "headline": "US judge again blocks Postal Service's mail-in voting restrictions",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/legal/government/us-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Pennsylvania voters are affected because this court order concerns the federal mail-ballot rules that would alter how states, including Pennsylvania, handle mailed ballots. Reuters says the challenged rule requires ballot-envelope barcodes and state lists of mail-ballot recipients, but the restrictions were blocked again.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0ovumih",
+        "headline": "Allegheny County proceeds with election plans amid federal mail-in ballot fight",
+        "sourceName": "TribLIVE",
+        "url": "https://triblive.com/local/regional/allegheny-county-proceeds-with-election-plans-amid-federal-mail-in-ballot-fight/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This county-level Pennsylvania election-administration story is relevant to PA-08 voters because it confirms existing voting methods remain in place in Allegheny County. The article says voters can still vote by mail, use satellite election offices, return ballots at authorized locations, and vote in person under current procedures.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0vb1sfk",
+        "headline": "Trump administration takes mail-in ballot fight to US Supreme Court",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/world/trump-administration-takes-mail-in-ballot-fight-us-supreme-court-2026-09-03/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This national procedural story matters to PA-08 because Pennsylvania vote-by-mail rules are directly implicated by the federal mail-ballot fight described here. Reuters reports the USPS rule would require states to provide ballot-recipient lists and use approved envelope/barcode systems, which could affect Pennsylvania administration if it takes effect.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-pa08-auto",
-      "startedAt": "2026-09-02T08:57:27.768Z",
-      "completedAt": "2026-09-02T08:58:58.276Z",
+      "id": "run-2026-09-09-pa08-auto",
+      "startedAt": "2026-09-09T09:10:35.235Z",
+      "completedAt": "2026-09-09T09:11:32.530Z",
       "triggerType": "scheduled",
       "sourcesChecked": 14,
-      "updatesCreated": 8,
+      "updatesCreated": 5,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for PA-08. Sources checked: 14. LLM verifications: 9. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-09 for PA-08. Sources checked: 14. LLM verifications: 6. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:58:58.276Z",
+    "NEXT_REFRESH_AT": "2026-09-16T09:11:32.530Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
