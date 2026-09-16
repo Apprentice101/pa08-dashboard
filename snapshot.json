@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T09:11:32.530Z",
-  "exportedAt": "2026-09-09T20:57:22.112Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:42:33.869Z",
+  "exportedAt": "2026-09-16T09:53:40.058Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-pa-dos-voter-id-guidance-2025": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-pa-dos-mail-ballot-id": {
@@ -131,7 +131,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-pa-reg-status": {
@@ -155,7 +155,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -179,7 +179,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -1304,20 +1304,90 @@
         "relevanceSummary": "This national procedural story matters to PA-08 because Pennsylvania vote-by-mail rules are directly implicated by the federal mail-ballot fight described here. Reuters reports the USPS rule would require states to provide ballot-recipient lists and use approved envelope/barcode systems, which could affect Pennsylvania administration if it takes effect.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0woawqw",
+        "headline": "US Supreme Court ruling ‘provides much-need finality' on mail voting in Pa.",
+        "sourceName": "News From The States",
+        "url": "https://www.newsfromthestates.com/article/us-supreme-court-ruling-provides-much-need-finality-mail-voting-pa",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This article covers a U.S. Supreme Court ruling blocking implementation of a new U.S. Postal Service mail‑ballot rule before the November election, with Pennsylvania’s Secretary of the Commonwealth stressing that existing mail‑voting procedures remain in place and noting statewide registration deadlines, all of which define the mail‑ballot environment for PA‑08 voters.[11]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0gwi337",
+        "headline": "Supreme Court decision keeps mail-in voting as Pennsylvania officials push voter registration",
+        "sourceName": "6ABC",
+        "url": "https://6abc.com/post/supreme-court-decision-keeps-mail-voting-pennsylvania-officials-push-voter-registration/19836429/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This piece explains that after a recent Supreme Court decision, Pennsylvania will continue to allow no‑excuse mail‑in voting and highlights key deadlines and options for requesting and returning mail ballots, including use of drop boxes and satellite election offices, which directly govern how PA‑08 voters can cast ballots in November.[1]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0plmhvo",
+        "headline": "Voter education push begins as mail-in ballots roll out",
+        "sourceName": "Pittsburgh Post-Gazette",
+        "url": "https://www.post-gazette.com/news/state/2026/09/13/voter-education-mail-in-ballots/stories/202609120014",
+        "publishedAt": "2026-09-13",
+        "relevanceSummary": "This statewide report describes Pennsylvania’s voter‑education efforts as mail‑in ballots are sent out and reiterates key dates such as the Oct. 27 deadline to apply for a mail‑in ballot, reinforcing timelines and procedures that PA‑08 voters must follow to successfully vote by mail.[15]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0cyslvf",
+        "headline": "Bucks County expands 'on-demand' voting locations ahead of election",
+        "sourceName": "PhillyBurbs",
+        "url": "https://www.phillyburbs.com/story/news/politics/elections/2026/09/11/bucks-county-midterm-election-vote-november-drop-box-mail-in-ballot-on-demand-democracy/91688754007/",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "The Bucks County Board of Elections approved four temporary satellite election offices and expanded the number of on‑demand voting locations where voters can apply for, receive, and submit mail‑in ballots, as well as access secure drop boxes and registration services; this directly affects in‑person and mail‑ballot options for PA‑08 voters living in Bucks County.[9]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-09s0hzh",
+        "headline": "Pennsylvania — Vet the Vote",
+        "sourceName": "Vet the Vote",
+        "url": "https://www.vetthe.vote/pennsylvania",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "This statewide voter‑resource page details Pennsylvania’s no‑excuse mail‑in and absentee voting options, request deadlines, and explains first‑time voter ID requirements and acceptable identification documents, providing PA‑08 voters with practical information on voter ID rules and how to vote by mail.[7]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0knvqmt",
+        "headline": "Pa. election chief: ‘Nothing has changed’ for voters as election nears",
+        "sourceName": "WHYY",
+        "url": "https://whyy.org/articles/2026-election-pennsylvania-mail-ballots/",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "Pennsylvania’s election chief reiterates that voters can continue to cast ballots by mail, hand‑deliver them to county election offices, or use authorized drop boxes, and outlines statewide voter‑registration and mail‑ballot application deadlines, giving PA‑08 voters clear guidance on current procedures and timelines.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0mzd1ag",
+        "headline": "Pennsylvania Voter ID & Registration Deadline | Alto",
+        "sourceName": "Alto",
+        "url": "https://alto.gab.com/politics/voter-id/pennsylvania",
+        "publishedAt": "2026-09-07",
+        "relevanceSummary": "This voter‑information page explains that most Pennsylvania voters do not need to show ID at the polls except certain first‑time voters who registered by mail, and lists acceptable photo and non‑photo identification documents, clarifying voter‑ID requirements that apply to PA‑08 residents.[12]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-pa08-auto",
-      "startedAt": "2026-09-09T09:10:35.235Z",
-      "completedAt": "2026-09-09T09:11:32.530Z",
+      "id": "run-2026-09-16-pa08-auto",
+      "startedAt": "2026-09-16T09:41:13.947Z",
+      "completedAt": "2026-09-16T09:42:33.869Z",
       "triggerType": "scheduled",
       "sourcesChecked": 14,
-      "updatesCreated": 5,
+      "updatesCreated": 7,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for PA-08. Sources checked: 14. LLM verifications: 6. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-16 for PA-08. Sources checked: 14. LLM verifications: 7. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T09:11:32.530Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:42:33.869Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
