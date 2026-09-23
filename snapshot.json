@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:42:33.869Z",
-  "exportedAt": "2026-09-16T09:53:40.058Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:30:53.762Z",
+  "exportedAt": "2026-09-23T09:39:59.781Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-pa-dos-voter-id-guidance-2025": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-pa-dos-mail-ballot-id": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-lackawanna-elections": {
@@ -179,7 +179,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -1374,20 +1374,100 @@
         "relevanceSummary": "This voter‑information page explains that most Pennsylvania voters do not need to show ID at the polls except certain first‑time voters who registered by mail, and lists acceptable photo and non‑photo identification documents, clarifying voter‑ID requirements that apply to PA‑08 residents.[12]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0hc6ofw",
+        "headline": "New Pa. initiative aims to simplify mail ballots before November election",
+        "sourceName": "WGAL",
+        "url": "https://www.wgal.com/article/pennsylvania-introduces-toolkit-simplify-mail-ballot-process/73840523",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "A Pennsylvania initiative provides guidance on the mail-ballot process and confirms that Oct. 27 is the deadline both to apply for a mail ballot and to vote by on-demand mail ballot.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0zfwgt6",
+        "headline": "As mail ballots begin to go out, Pa.'s top election official says midterms will be business as usual",
+        "sourceName": "Penn Capital-Star",
+        "url": "https://penncapital-star.com/election-2026/as-mail-ballots-begin-to-go-out-pa-s-top-election-official-says-midterms-will-be-business-as-usual/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The statewide election official described Pennsylvania’s on-demand mail-ballot process: voters may visit a county election or designated satellite office, complete a mail ballot there, and return it to an election worker.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0xpkavl",
+        "headline": "Pennsylvania launches new tool for on-demand mail ballot voting",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/pennsylvania-launches-tool-demand-mail-190230133.html",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "Pennsylvania launched a tool supporting on-demand mail-ballot voting, allowing eligible voters to request, complete, and return a ballot at a county elections office or designated satellite office.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0zfvbka",
+        "headline": "Mail ballots begin arriving ahead of Nov. 3 election",
+        "sourceName": "Lewistown Sentinel",
+        "url": "https://www.lewistownsentinel.com/news/local-news/2026/09/mail-ballots-begin-arriving-ahead-of-nov-3-election/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "Pennsylvania voters can register by Oct. 19, apply for a mail or absentee ballot by 5 p.m. Oct. 27, and must ensure completed ballots reach their county election office by 8 p.m. Nov. 3; a postmark alone is insufficient.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0ffqhhg",
+        "headline": "Secretary of the Commonwealth Reminds Eligible Pennsylvanians ...",
+        "sourceName": "Pennsylvania Department of State",
+        "url": "https://www.pa.gov/agencies/dos/newsroom/secretary-reminds-eligible-pennsylvanians-of-oct--19-registratio",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The Pennsylvania Secretary of the Commonwealth reiterated statewide voter-registration and mail-ballot deadlines: registration by Oct. 19, mail-ballot applications by 5 p.m. Oct. 27, and voted mail ballots received by 8 p.m. Nov. 3.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0pay1zn",
+        "headline": "Voting in Pa. for the first time? Here’s what young voters need to know",
+        "sourceName": "WHYY",
+        "url": "https://whyy.org/articles/election-2026-pennsylvania-young-voters-guide/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "This Pennsylvania voter guide explains statewide deadlines, including Oct. 27 for requesting a mail or absentee ballot and 8 p.m. Nov. 3 for county receipt of completed ballots, with emergency-absentee options for some voters who miss the deadline.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-088vg1n",
+        "headline": "Erie County tables smart ballot box decision amid privacy, cost concerns",
+        "sourceName": "GoErie",
+        "url": "https://www.goerie.com/story/news/local/2026/09/16/erie-county-election-board-smart-ballot-box-sentinel/91792182007/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Erie County officials postponed a decision on smart ballot boxes while considering privacy and cost concerns; the county’s handling of envelope approval, barcode tracking, and mail-ballot lists illustrates election-administration issues relevant statewide.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0kpjd4b",
+        "headline": "Pennsylvania's election leader celebrates Supreme Court's mail ballot ruling",
+        "sourceName": "abc27",
+        "url": "https://www.abc27.com/pennsylvania/pennsylvanias-election-leader-celebrates-supreme-courts-mail-ballot-ruling/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Pennsylvania’s election leader said a Supreme Court ruling preserves existing mail-ballot procedures across all 67 counties, including the county procedures applicable to PA-08 voters.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-pa08-auto",
-      "startedAt": "2026-09-16T09:41:13.947Z",
-      "completedAt": "2026-09-16T09:42:33.869Z",
+      "id": "run-2026-09-23-pa08-auto",
+      "startedAt": "2026-09-23T09:30:06.750Z",
+      "completedAt": "2026-09-23T09:30:53.762Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
-      "updatesCreated": 7,
+      "sourcesChecked": 16,
+      "updatesCreated": 8,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for PA-08. Sources checked: 14. LLM verifications: 7. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-23 for PA-08. Sources checked: 16. LLM verifications: 7. 5 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:42:33.869Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:30:53.762Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
