@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:30:53.762Z",
-  "exportedAt": "2026-09-23T09:39:59.781Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:30:38.433Z",
+  "exportedAt": "2026-09-30T10:40:12.458Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-pa-dos-voter-id-guidance-2025": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-pa-dos-mail-ballot-id": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-lackawanna-elections": {
@@ -179,7 +179,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -1454,20 +1454,100 @@
         "relevanceSummary": "Pennsylvania’s election leader said a Supreme Court ruling preserves existing mail-ballot procedures across all 67 counties, including the county procedures applicable to PA-08 voters.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-02wqlq4",
+        "headline": "Bill to open Pennsylvania primaries to independent voters ...",
+        "sourceName": "Votebeat Pennsylvania",
+        "url": "https://www.votebeat.org/pennsylvania/2026/09/29/house-passes-open-primaries-bill/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The Pennsylvania House passed legislation concerning open primaries and potential new ballot types. Although the proposal concerns future election administration rather than the November 2026 general election, it could affect statewide ballot procedures and election staffing if enacted.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-08ukn6j",
+        "headline": "Everything You Need to Know About How to Vote in the 2026 Midterm Elections in Pennsylvania",
+        "sourceName": "Bucks County Beacon",
+        "url": "https://buckscountybeacon.com/2026/09/everything-you-need-to-know-about-how-to-vote-in-the-2026-midterm-elections-in-pennsylvania/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The statewide guide covers the October 27 mail-ballot application deadline, return options including county offices and designated drop boxes, ballot-envelope requirements, polling hours, and acceptable identification for certain in-person voters. These procedures apply to PA-08 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0s3eaw2",
+        "headline": "What Pennsylvania mail voters need to know before November",
+        "sourceName": "GoErie",
+        "url": "https://www.goerie.com/story/news/politics/elections/state/2026/09/28/what-pennsylvania-mail-voters-need-to-know-before-midterms/91925535007/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "Pennsylvania Secretary of State Al Schmidt said mail-ballot procedures have not changed since the May primary. The article explains statewide procedures directly applicable to PA-08 voters, including handling of undated or incorrectly dated declaration envelopes.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0ewjxh1",
+        "headline": "As mail ballots begin to go out, Pa.’s top election official says midterms will be business as usual",
+        "sourceName": "Mon Valley Independent",
+        "url": "https://www.monvalleyindependent.com/2026/09/26/as-mail-ballots-begin-to-go-out-pa-s-top-election-official-says-midterms-will-be-business-as-usual/",
+        "publishedAt": "2026-09-26",
+        "relevanceSummary": "The Pennsylvania Department of State has issued a toolkit for counties administering on-demand, in-person mail-ballot voting. PA-08 voters can request, complete, and return a mail ballot at a county or designated satellite election office.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0gtuqqv",
+        "headline": "Luzerne County plans to mail ballots next week, start on-demand voting in October",
+        "sourceName": "Citizens' Voice",
+        "url": "https://www.citizensvoice.com/2026/09/25/luzerne-county-plans-to-mail-ballots-next-week-start-on-demand-voting-in-october/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Luzerne County announced mail-ballot distribution, on-demand voting, drop-box locations and hours, and the October 27 application and November 3 receipt deadlines. The county is outside PA-08, but its administration illustrates Pennsylvania procedures that may inform district voters and county operations.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0xp9t4b",
+        "headline": "2026 General Election Unverifiable Identification, Undeliverable, and/or Potentially Flawed Ballots",
+        "sourceName": "Philadelphia City Commissioners",
+        "url": "https://vote.phila.gov/news/2026/09/24/2026-general-election-unverifiable-identification-undeliverable-and-or-potentially-flawed-ballots/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Philadelphia election officials explain how voters can submit a photocopy or picture of acceptable identification to address mail-ballot identification verification issues. The county-specific procedure is relevant to PA-08 voters residing in Philadelphia County and may inform statewide ballot-administration practices.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-012o0b1",
+        "headline": "How to vote in the 2026 midterm elections in Pennsylvania",
+        "sourceName": "Votebeat Pennsylvania",
+        "url": "https://www.votebeat.org/pennsylvania/2026/09/25/2026-election-how-to-vote-mail-ballots-voter-id/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "This statewide voter guide says Pennsylvania mail-ballot applications are due by 5 p.m. October 27 and ballots must be placed in the secrecy envelope, sealed, and signed and dated on the outer envelope. It also explains that first-time Pennsylvania voters or voters at a new polling place must show acceptable identification.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-04bweb6",
+        "headline": "Pennsylvania starts voting under federal scrutiny. Here's what we're watching",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/pennsylvania-starts-voting-under-federal-scrutiny-heres-what-were-watching/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "The article describes Pennsylvania's in-person mail-ballot option rather than traditional early voting and states that mail ballots may be returned in person until 8 p.m. on Election Day. Those statewide procedures are available to PA-08 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-pa08-auto",
-      "startedAt": "2026-09-23T09:30:06.750Z",
-      "completedAt": "2026-09-23T09:30:53.762Z",
+      "id": "run-2026-09-30-pa08-auto",
+      "startedAt": "2026-09-30T10:29:39.711Z",
+      "completedAt": "2026-09-30T10:30:38.433Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
+      "sourcesChecked": 18,
       "updatesCreated": 8,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for PA-08. Sources checked: 16. LLM verifications: 7. 5 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-30 for PA-08. Sources checked: 18. LLM verifications: 8. 5 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:30:53.762Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:30:38.433Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
