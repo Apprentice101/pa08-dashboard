@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T11:06:36.602Z",
-  "exportedAt": "2026-10-07T11:15:27.171Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:26:40.506Z",
+  "exportedAt": "2026-10-14T09:35:03.960Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-pa-dos-voter-id-guidance-2025": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-pa-dos-mail-ballot-id": {
@@ -155,7 +155,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-pa-title25": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-lackawanna-elections": {
@@ -179,7 +179,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "Director: Elizabeth Hopkins. Phone: (570) 963-6737. 123 Wyoming Ave., 2nd Floor, Scranton, PA 18503."
       },
@@ -1614,20 +1614,100 @@
         "relevanceSummary": "The statewide report explains that mail-ballot applications are due by 5 p.m. Oct. 27, completed ballots must arrive by 8 p.m. Nov. 3, and voters who do not return a requested ballot may vote in person by surrendering the ballot materials or using a provisional ballot.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0nfze0d",
+        "headline": "Juniata County is ready for Election Day ballots",
+        "sourceName": "Lewistown Sentinel",
+        "url": "https://www.lewistownsentinel.com/news/local-news/2026/10/juniata-county-is-ready-for-election-day-ballots/",
+        "publishedAt": "2026-10-14",
+        "relevanceSummary": "The county administration article states that Oct. 19 is the voter-registration deadline, Oct. 27 is the mail-ballot application deadline, polls will be open from 7 a.m. to 8 p.m., and completed mail ballots must arrive by 8 p.m. on Election Day. These statewide deadlines and county-election logistics are potentially useful to PA-08 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-07wbr10",
+        "headline": "Trump shifts position on mail-in voting: Pennsylvania rules and deadlines",
+        "sourceName": "WGAL",
+        "url": "https://www.wgal.com/article/trump-mail-in-voting-pennsylvania/74117163",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The report summarizes Pennsylvania's no-excuse mail voting, on-demand mail-ballot voting at designated county locations, and the Oct. 19, Oct. 27, and Nov. 3 deadlines. The statewide rules and ballot-return instructions apply to PA-08 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0ri9cm5",
+        "headline": "Your guide to the Nov. 3, 2026 election in York County",
+        "sourceName": "York Daily Record",
+        "url": "https://www.ydr.com/story/news/politics/elections/2026/10/12/york-county-election-guide-for-the-november-2026-mid-term-elections/92043397007/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The county election guide explains Pennsylvania mail-ballot handling: use the yellow secrecy envelope, sign and date the outer declaration, and ensure the county receives the ballot by 8 p.m. on Election Day. These statewide ballot procedures are relevant to PA-08 voters even though the article focuses on York County.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0ty8693",
+        "headline": "Everything You Need to Know About Mail Voting in PA",
+        "sourceName": "Saucon Source",
+        "url": "https://sauconsource.com/2026/10/12/everything-you-need-to-know-about-mail-voting-in-pa/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "This Pennsylvania mail-voting guide covers application methods, the Oct. 27 application deadline, the Oct. 19 voter-registration deadline, and identification required to apply, including a Pennsylvania driver's license or the last four Social Security digits. These statewide procedures apply directly to PA-08 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-02vu94j",
+        "headline": "Pennsylvania election officials face added scrutiny ahead of the midterms",
+        "sourceName": "Pittsburgh Post-Gazette",
+        "url": "https://www.post-gazette.com/news/politics-local/2026/10/12/pennsylvania-election-security/stories/202610090052",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "This statewide Pennsylvania report highlights election administration and security scrutiny ahead of the midterms. It also notes that Oct. 27 is the deadline to apply for a mail-in ballot, a deadline that applies to PA-08 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0fbwd2i",
+        "headline": "Make Sure You Have a Plan to Vote!",
+        "sourceName": "Pennsylvania House of Representatives",
+        "url": "https://www.pahouse.com/nelson/EmailArchive/?id=145627",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "The Pennsylvania House voter-information notice reminds residents that Oct. 27 is the deadline to request a mail-in or absentee ballot. The statewide deadline applies to voters in PA-08.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-0mjke4i",
+        "headline": "Lehigh Valley and Pa. guide to 2026 election",
+        "sourceName": "The Morning Call",
+        "url": "https://www.mcall.com/2026/10/08/lehigh-valley-pa-november-2026-midterm-elections-guide/",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "This regional Pennsylvania guide explains on-demand mail-ballot voting, identification needed at election offices, mail-ballot deadlines, and the requirement that ballots be signed, enclosed in the security envelope, and received by 8 p.m. on Election Day. The statewide procedures are relevant to PA-08 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-pa08-022borh",
+        "headline": "Pennsylvania voting rights: what to know for Nov. 3 election",
+        "sourceName": "Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2026/10/pennsylvania-general-election-day-2026-voter-rights-elections/",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "The statewide voter guide explains Pennsylvania's in-person ID rule, including acceptable identification and provisional-ballot options, plus how to spoil a mail ballot at the polling place. It also lists the Oct. 19 registration deadline and Oct. 27 mail-ballot application deadline for PA-08 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-pa08-auto",
-      "startedAt": "2026-10-07T11:05:52.694Z",
-      "completedAt": "2026-10-07T11:06:36.602Z",
+      "id": "run-2026-10-14-pa08-auto",
+      "startedAt": "2026-10-14T09:26:04.606Z",
+      "completedAt": "2026-10-14T09:26:40.506Z",
       "triggerType": "scheduled",
       "sourcesChecked": 16,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for PA-08. Sources checked: 16. LLM verifications: 7. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for PA-08. Sources checked: 16. LLM verifications: 9. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T11:06:36.602Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:26:40.506Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
