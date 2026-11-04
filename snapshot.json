@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-28",
-  "updatedAt": "2026-10-28T10:20:48.298Z",
-  "exportedAt": "2026-10-28T10:26:45.875Z",
+  "dataAsOf": "2026-11-04",
+  "updatedAt": "2026-11-04T11:47:25.983Z",
+  "exportedAt": "2026-11-04T11:52:47.009Z",
   "districtCode": "PA-08",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-pa-mail-absentee": {
@@ -83,7 +83,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-pa-dos-voter-id-guidance-2025": {
@@ -95,7 +95,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-pa-dos-mail-ballot-id": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-26",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-lackawanna-elections": {
@@ -1777,17 +1777,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-28-pa08-auto",
-      "startedAt": "2026-10-28T10:20:42.020Z",
-      "completedAt": "2026-10-28T10:20:48.298Z",
+      "id": "run-2026-11-04-pa08-auto",
+      "startedAt": "2026-11-04T11:47:19.376Z",
+      "completedAt": "2026-11-04T11:47:25.983Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 19,
+      "sourcesChecked": 22,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-28 for PA-08. Sources checked: 19. LLM verifications: 11. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-04 for PA-08. Sources checked: 22. LLM verifications: 13. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-04T10:20:48.298Z",
+    "NEXT_REFRESH_AT": "2026-11-11T11:47:25.983Z",
     "WEEKLY_REPORT": {
       "id": "wr-pa08-2026-w25",
       "periodStart": "2026-06-03",
